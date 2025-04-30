@@ -1,0 +1,2294 @@
+[
+    {
+      "id": 1,
+      "title": "The Dark Knight",
+      "director": "Christopher Nolan",
+      "actors": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Gary Oldman",
+        "Aaron Eckhart",
+        "Michael Caine",
+        "Maggie Gyllenhaal",
+        "Morgan Freeman",
+        "Cillian Murphy",
+        "Nestor Carbonell",
+        "Eric Roberts",
+        "Monique Gabriela Curnen",
+        "Chin Han",
+        "Anthony Michael Hall",
+        "David Dastmalchian",
+        "William Fichtner",
+        "Ritchie Coster",
+        "Ben Mendelsohn",
+        "Burn Gorman",
+        "Melinda McGraw",
+        "Nathan Gamble"
+      ],
+      "format": "movie",
+      "category": [
+        "Epic",
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "duration": "152 minutes",
+      "desc": "Batman, James Gordon, and Harvey Dent form an alliance to dismantle organized crime in Gotham City. Their efforts are complicated by the Joker, an anarchistic criminal mastermind who seeks to test how far Batman will go to save the city from chaos.",
+      "story": "The Dark Knight sees Batman, Lieutenant James Gordon, and District Attorney Harvey Dent forming a crucial alliance to dismantle the remaining organized crime syndicates in Gotham City. Their effective collaboration brings hope, but it is soon overshadowed by the emergence of a new, enigmatic criminal known only as the Joker. With a chaotic and unpredictable nature, the Joker begins to wreak havoc on Gotham, challenging the city's sense of order and pushing its heroes to their limits. His main target becomes Batman, and he orchestrates a series of elaborate schemes designed to expose the Dark Knight's true identity and force him to break his moral code. As the Joker's reign of terror escalates, Gotham is plunged into anarchy, and its citizens are forced to confront the true nature of heroism and villainy. The film explores themes of chaos, morality, and the choices people make when faced with ultimate pressure. Harvey Dent, the city's 'White Knight,' finds himself tragically transformed by the Joker's manipulation. Batman is faced with impossible decisions to protect the city and those he cares about, ultimately making a significant sacrifice to preserve hope. The conflict between Batman's justice and the Joker's anarchy forms the core of the narrative, leading to a climactic confrontation that has lasting consequences for Gotham.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX1000_.jpg",
+      "date": "2008-07-18",
+      "imdb": 9.0,
+      "adult": false,
+      "country": "United States, United Kingdom",
+      "lang": "English",
+      "wall": "https://wallpapercat.com/w/full/e/5/1/37793-3840x2160-desktop-4k-the-dark-knight-wallpaper-photo.jpg",
+      "awards": "Won 2 Oscars, Nominated for 6 others, Won 2 Golden Globes, Nominated for 3 others, Won BAFTA Film Award, Nominated for 8 others, Won 2 Screen Actors Guild Awards, Nominated for 1 other",
+      "popular": true,
+      "fragmanID": "EXeTwQWrcwY",
+      "videosID": [
+        "jane6C4rIwc",
+        "X2FV2E34Bwo",
+        "votcOf5cYCM",
+        "pVz0k5AzM6A",
+        "xLcHPsWK5xg"
+      ],
+      "information": [
+        "Heath Ledger intensely prepared for the Joker role, reportedly isolating himself and keeping a disturbing diary. He also significantly influenced the character's chaotic and smudged makeup look. This deep immersion contributed to his acclaimed performance.",
+        "The impressive truck flip stunt was achieved using practical effects, not CGI. Filmmakers rigged a real 18-wheeler truck with a nitrogen cannon to flip it on command. This complex and risky maneuver was successfully executed on a city street.",
+        "Director Christopher Nolan had his cast and crew watch specific films like 'Heat' and 'A Clockwork Orange' to establish the desired tone and style. This ensured a shared creative vision for the urban realism and the Joker's anarchic nature.",
+        "The film drew heavily from Batman comic books, notably 'The Killing Joke' and 'The Long Halloween'. These comics influenced the portrayal of the Joker's psychology and Harvey Dent's transformation.",
+        "Batman's costume in The Dark Knight was redesigned for increased flexibility and practicality. The new suit consisted of 110 separate pieces, allowing for better movement during action scenes. This upgrade supported Christian Bale's physical performance."
+      ],
+      "faq": [
+        {
+          "question": "Who creates all of Batman's high-tech gadgets?",
+          "answer": "Lucius Fox."
+        },
+        {
+          "question": "What is The Joker's catchphrase?",
+          "answer": "Why so serious?"
+        },
+        {
+          "question": "What is the name of the Batmobile?",
+          "answer": "The Tumbler."
+        },
+        {
+          "question": "How does The Joker leave the bank after he robs it?",
+          "answer": "On a school bus."
+        },
+        {
+          "question": "Who is Gotham's White Knight?",
+          "answer": "Harvey Dent."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Shawshank Redemption",
+      "director": "Frank Darabont",
+      "actors": [
+        "Tim Robbins",
+        "Morgan Freeman",
+        "Bob Gunton",
+        "William Sadler",
+        "Clancy Brown",
+        "Gil Bellows",
+        "James Whitmore",
+        "Mark Rolston",
+        "Jeffrey DeMunn",
+        "Larry Brandenburg",
+        "Neil Giuntoli",
+        "Brian Libby",
+        "David Proval",
+        "Joseph Ragno",
+        "Jude Ciccolella",
+        "Paul McCrane",
+        "Renee Blaine",
+        "Scott Mann",
+        "Frank Medrano",
+        "Bill Bolender"
+      ],
+      "format": "movie",
+      "category": [
+        "Epic",
+        "Crime",
+        "Drama"
+      ],
+      "duration": "142 minutes",
+      "desc": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "story": "Framed for the murders of his wife and her lover, banker Andy Dufresne is sentenced to life in the notorious Shawshank State Penitentiary. Despite the brutal realities of prison life, including corrupt guards and violent inmates, Andy maintains his innocence and his quiet dignity. Over nearly two decades, he forms a close friendship with Ellis 'Red' Redding, a fellow inmate known for his ability to smuggle items into the prison. Andy uses his banking skills to help guards and eventually the corrupt Warden Samuel Norton with financial matters, including laundering money. Secretly, over many years, Andy digs a tunnel out of his cell using a small rock hammer, concealing his progress behind posters of pin-up women. When the opportunity arises to expose the Warden's corruption and secure his own freedom, Andy executes a meticulous plan, escaping through the tunnel and sewage system. He retrieves the laundered money and evidence of the Warden's crimes, sending it to the authorities. The Warden commits suicide, and Captain Hadley is arrested. Red, finally paroled after serving 40 years, fulfills a promise to Andy and travels to a specific spot mentioned by Andy. The film concludes with their emotional reunion on a beach in Zihuatanejo, Mexico, a place Andy dreamed of going.",
+      "wall": "https://wallpapercat.com/w/full/e/a/b/171926-2880x1800-desktop-hd-the-shawshank-redemption-wallpaper-photo.jpg",
+      "date": "1994-09-23",
+      "imdb": 9.3,
+      "adult": false,
+      "country": "United States",
+      "lang": "English",
+      "poster": "https://image.tmdb.org/t/p/original/5OWFF1DhvYVQiX1yUrBE9CQqO5t.jpg",
+      "awards": "Nominated for 7 Oscars, Won Japan Academy Prize for Outstanding Foreign Language Film, Won American Society of Cinematographers Award",
+      "popular": true,
+      "fragmanID": "PLl99DlL6b4",
+      "videosID": [
+        "njJ41irPjTc",
+        "ABpeLNCuE3w",
+        "0spucxvMfjE",
+        "YvPerZLPnm4",
+        "tiG3HziMjWI",
+        "46GwJbrMghQ"
+      ],
+      "information": [
+        "Stephen King sold the film rights to his novella 'Rita Hayworth and the Shawshank Redemption' for $5,000, but never cashed the check. He later framed it and sent it back to director Frank Darabont.",
+        "Morgan Freeman's character Red is Irish in Stephen King's novella. The line \"Maybe it's because I'm Irish\" was kept in the film as an inside joke, even though Freeman is African American.",
+        "To prepare for his role, Tim Robbins spent some time in solitary confinement to understand the feeling of isolation.",
+        "The scene where Andy plays the opera music over the loudspeaker was Tim Robbins' idea and was not in the original script.",
+        "Many prominent actors were considered for the role of Red, including Clint Eastwood, Harrison Ford, Paul Newman, and Robert Redford, before Morgan Freeman was cast."
+      ],
+      "faq": [
+        {
+          "question": "Is The Shawshank Redemption based on a book?",
+          "answer": "Yes, it is based on the 1982 Stephen King novella 'Rita Hayworth and the Shawshank Redemption'."
+        },
+        {
+          "question": "How did Andy Dufresne escape from prison?",
+          "answer": "Over nearly two decades, he used a small rock hammer to dig a tunnel through his cell wall, concealing the hole behind posters. He escaped through the tunnel and the prison's sewage system."
+        },
+        {
+          "question": "What happened to Warden Norton at the end?",
+          "answer": "When the authorities came to arrest him for corruption and murder, Warden Norton committed suicide."
+        },
+        {
+          "question": "What is the meaning behind the quote 'Get busy living or get busy dying'?",
+          "answer": "It's a central theme of the film, suggesting that one must choose to actively live and pursue hope (get busy living) rather than passively succumb to despair and inaction (get busy dying), even in the direst circumstances."
+        },
+        {
+          "question": "Where do Andy and Red reunite at the end?",
+          "answer": "They reunite on a beach in Zihuatanejo, a town on the Pacific coast of Mexico, fulfilling a dream Andy had while in prison."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The Godfather Part II",
+      "director": "Francis Ford Coppola",
+      "actors": [
+        "Al Pacino",
+        "Robert De Niro",
+        "Robert Duvall",
+        "Diane Keaton",
+        "John Cazale",
+        "Talia Shire",
+        "Lee Strasberg",
+        "Michael V. Gazzo",
+        "G. D. Spradlin",
+        "Richard Bright",
+        "Tom Rosqui",
+        "Joaquin Martinez",
+        "Frank Sivero",
+        "Francesca De Sapio",
+        "Morgana King",
+        "Marianna Hill",
+        "Danny Aiello",
+        "Bruno Kirby",
+        "John Aprea",
+        "Harry Dean Stanton"
+      ],
+      "format": "movie",
+      "category": [
+        "Epic",
+        "Crime",
+        "Drama"
+      ],
+      "duration": "202 minutes",
+      "desc": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+      "story": "The film presents a dual narrative: a prequel tracing the journey of a young Vito Corleone from his Sicilian childhood and immigration to his rise as a powerful mob boss in Prohibition-era New York, and a sequel continuing the story of his son Michael Corleone in 1958. Michael, now the head of the Corleone family, deals with the fallout from the events of the first film, facing betrayal, political corruption, and attempts on his life. He seeks to expand the family's operations into new territories like Las Vegas and Cuba, encountering resistance and forming complex alliances, notably with the elderly Jewish mobster Hyman Roth. The prequel story shows Vito building his empire based on loyalty and community respect, often resorting to violence but maintaining a code. In contrast, Michael's story depicts his increasing paranoia, ruthlessness, and isolation as he consolidates power, leading to tragic consequences for his family and relationships, particularly with his wife Kay and brother Fredo. The parallel narratives highlight the contrasting paths of father and son and the corrupting nature of absolute power. Michael ultimately identifies and eliminates threats to his control, including those closest to him, culminating in acts that sever his remaining emotional ties.",
+      "wall": "https://images3.alphacoders.com/131/1315823.jpg",
+      "date": "1974-12-20",
+      "imdb": 9.0,
+      "adult": false,
+      "country": "United States",
+      "lang": "English, Italian",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "awards": "Won 6 Oscars (including Best Picture, Director, Best Supporting Actor for Robert De Niro), Nominated for 11 Oscars total, Won BAFTA Film Award for Best Actor (Al Pacino), Nominated for several Golden Globes.",
+      "popular": true,
+      "fragmanID": "9O1Iy9od7-A",
+      "videosID": [
+        "fkm5UOabXZk",
+        "5Weaop_aiTg",
+        "wPmTp9up26w",
+        "gCdXiOssbM0",
+        "t8cE3ZekgCY"
+      ],
+      "information": [
+        "The Godfather Part II was the first sequel to win the Academy Award for Best Picture.",
+        "Robert De Niro won an Oscar for his portrayal of young Vito Corleone, despite speaking largely in Sicilian dialect throughout his performance.",
+        "Lee Strasberg, the renowned acting teacher, received his first major film role in this movie as Hyman Roth.",
+        "Marlon Brando was originally planned to appear in a flashback scene, but his cameo was canceled due to salary disputes.",
+        "Director Francis Ford Coppola initially faced resistance from the studio for titling the film 'Part II', as sequels were generally seen as inferior at the time."
+      ],
+      "faq": [
+        {
+          "question": "Why does the movie show both young Vito and Michael?",
+          "answer": "The film uses parallel storylines to contrast the rise of the father, Vito, who built his empire from nothing with a focus on family and community, with the reign of the son, Michael, who expands the empire but sacrifices his family and humanity in the process."
+        },
+        {
+          "question": "What was Fredo's betrayal?",
+          "answer": "Fredo was approached by Johnny Ola, acting for Hyman Roth, and provided information about Michael's security arrangements, which facilitated the assassination attempt on Michael. Fredo felt resentful and overlooked by Michael."
+        },
+        {
+          "question": "Is it necessary to watch The Godfather (1972) first?",
+          "answer": "Yes, The Godfather Part II is both a direct sequel to the events of the first film and a prequel exploring Vito's backstory. Watching the first film is essential for understanding the characters, their relationships, and the overall narrative context."
+        },
+        {
+          "question": "What is the significance of the final scene?",
+          "answer": "The final scene, a flashback to a family gathering before the first film's events, highlights Michael's isolation in the present. He is alone, having driven away or eliminated everyone close to him, contrasting sharply with the warmth and family bonds shown in the past. It underscores the heavy price of his power."
+        },
+        {
+          "question": "Is the character Hyman Roth based on a real person?",
+          "answer": "Yes, the character of Hyman Roth is widely believed to be based on the real-life Jewish mobster Meyer Lansky."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "The Lord of the Rings: The Return of the King",
+      "director": "Peter Jackson",
+      "actors": [
+        "Elijah Wood",
+        "Sean Astin",
+        "Ian McKellen",
+        "Viggo Mortensen",
+        "Orlando Bloom",
+        "Liv Tyler",
+        "John Rhys-Davies",
+        "Bernard Hill",
+        "Billy Boyd",
+        "Dominic Monaghan",
+        "Hugo Weaving",
+        "Cate Blanchett",
+        "Christopher Lee",
+        "Miranda Otto",
+        "David Wenham",
+        "Karl Urban",
+        "Andy Serkis",
+        "Ian Holm",
+        "Sean Bean",
+        "Marton Csokas"
+      ],
+      "format": "movie",
+      "category": [
+        "Epic",
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Drama"
+      ],
+      "duration": "201 minutes",
+      "desc": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "story": "The climax of the War of the Ring sees the forces of good making their final stand against Sauron. While Frodo and Sam, guided by Gollum, continue their perilous journey into Mordor to destroy the One Ring in the fires of Mount Doom, Gandalf and Aragorn rally the armies of Men for a desperate battle. Aragorn embraces his destiny as the heir of Isildur and leads the diverse forces to the Black Gate of Mordor, aiming to distract Sauron and give Frodo a chance to complete his quest. Meanwhile, the great city of Minas Tirith in Gondor endures a massive siege by Mordor's forces, including the Witch-king of Angmar. The Rohirrim, led by King Théoden and later Éomer, arrive to aid Gondor in the Battle of the Pelennor Fields. Sacrifices are made, heroes rise, and the fate of Middle-earth hangs in the balance. As the battle rages, Frodo finally reaches Mount Doom but struggles with the Ring's overwhelming power. Gollum's intervention leads to the Ring's destruction, causing Sauron's empire to collapse. The heroes achieve victory, Aragorn is crowned King, and the fellowship is reunited, though the Ringbearers bear lasting scars from their ordeal. The film concludes with the hobbits returning home and the Ringbearers departing Middle-earth for the Undying Lands.",
+      "wall": "https://images7.alphacoders.com/112/1123161.jpg",
+      "date": "2003-12-17",
+      "imdb": 9.0,
+      "adult": false,
+      "country": "New Zealand, United States, Germany",
+      "lang": "English",
+      "poster": "https://cdn11.bigcommerce.com/s-ydriczk/images/stencil/1500x1500/products/82360/91855/THE-LORD-OF-THE-RINGS-THE-RETURN-OF-THE-KING-DS-ADV-Style-A-2003-ORIGINAL-CINEMA-POSTER__10176.1543239944.jpg?c=2",
+      "awards": "Won 11 Academy Awards (including Best Picture, Best Director, Best Adapted Screenplay, Best Original Score), Nominated for 11 Oscars total, Won Golden Globe Award for Best Motion Picture - Drama, Won BAFTA Film Award for Best Film.",
+      "popular": true,
+      "fragmanID": "r5X-hFf6Bwo",
+      "videosID": [
+        "7lwJOxN_gXc",
+        "K9VWhHJaSjA",
+        "QdtmlfLFgWg",
+        "Oz_njsPDGRs",
+        "W7_c-R7i8F4"
+      ],
+      "information": [
+        "The Lord of the Rings: The Return of the King made history at the Academy Awards, winning all 11 categories for which it was nominated. This incredible sweep tied the record for most Oscar wins for a single film, placing it alongside cinematic epics like 'Ben-Hur' and 'Titanic'. Its wins included prestigious awards such as Best Picture, Best Director for Peter Jackson, and Best Adapted Screenplay.",
+        "Viggo Mortensen, who portrayed Aragorn, showed immense dedication by insisting on being present for the final scene where the hobbits bow to the newly crowned King. Despite not being required for the shot that day, he felt it was important to be there for his fellow actors and the emotional conclusion of their characters' journey. He even fashioned a makeshift crown for himself.",
+        "The epic charge of the Rohirrim during the Battle of the Pelennor Fields was achieved through massive practical effects and choreography. Hundreds of extras, including members of the New Zealand army, participated in the scene, riding horses across a vast field. Their enthusiastic performance sometimes led to them breaking the wooden swords provided.",
+        "Weta Digital's visual effects were crucial in bringing the scale and fantasy elements of Middle-earth to life. From the fully motion-captured performance of Andy Serkis as Gollum to the immense armies and creatures in the large-scale battles, the VFX pushed the boundaries of filmmaking technology at the time. This contributed significantly to the film's immersive world and epic scope.",
+        "The film features multiple ending scenes following the destruction of the Ring, depicting the fates of various characters and the return to peace in Middle-earth. While some viewers found these endings prolonged, they were included to provide closure for the many interwoven storylines and honor the comprehensive nature of Tolkien's novel, which also features extensive appendices detailing the aftermath."
+      ],
+      "faq": [
+        {
+          "question": "Is this the final movie in The Lord of the Rings trilogy?",
+          "answer": "Yes, The Return of the King is the third and final film in Peter Jackson's adaptation of J.R.R. Tolkien's The Lord of the Rings."
+        },
+        {
+          "question": "What ultimately happens to the One Ring?",
+          "answer": "The One Ring is finally destroyed when Gollum bites it off Frodo's finger and falls with it into the fires of Mount Doom, the only place it could be unmade."
+        },
+        {
+          "question": "Why didn't the Eagles just fly the Fellowship to Mordor at the beginning?",
+          "answer": "Within the context of Tolkien's wider mythology, the Great Eagles are powerful and independent beings who serve a higher authority (Manwë). They are not simply transportation and would not directly intervene in the affairs of Middle-earth in that manner. Also, the Ring's corruption and Sauron's watchful eye would have made such a direct approach extremely risky."
+        },
+        {
+          "question": "What happens to Frodo and the other Ringbearers at the end?",
+          "answer": "Frodo, along with Bilbo, Gandalf, and later Sam, are granted passage to the Grey Havens and sail from Middle-earth to the Undying Lands (Valinor), a special privilege for those who bore the Ring."
+        },
+        {
+          "question": "Does Aragorn become King?",
+          "answer": "Yes, following the defeat of Sauron, Aragorn is crowned King Elessar Telcontar of Gondor and Arnor, fulfilling his destiny."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Pulp Fiction",
+      "director": "Quentin Tarantino",
+      "actors": [
+        "John Travolta",
+        "Samuel L. Jackson",
+        "Uma Thurman",
+        "Bruce Willis",
+        "Tim Roth",
+        "Amanda Plummer",
+        "Harvey Keitel",
+        "Christopher Walken",
+        "Ving Rhames",
+        "Eric Stoltz",
+        "Rosanna Arquette",
+        "Maria de Medeiros",
+        "Steve Buscemi",
+        "Quentin Tarantino",
+        "Phil LaMarr",
+        "Frank Whaley",
+        "Burr Steers",
+        "Paul Calderón",
+        "Bronagh Gallagher",
+        "Peter Greene"
+      ],
+      "format": "movie",
+      "category": [
+        "Epic",
+        "Crime",
+        "Drama"
+      ],
+      "duration": "154 minutes",
+      "desc": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "story": "Pulp Fiction presents a non-linear narrative interweaving the stories of several characters in the Los Angeles criminal underworld. The main plot threads follow hitmen Vincent Vega and Jules Winnfield as they retrieve a mysterious briefcase for their boss Marsellus Wallace; Vincent taking Marsellus's wife Mia out for a date; aging boxer Butch Coolidge who double-crosses Marsellus by not throwing a fight; and the diner stick-up attempted by Pumpkin and Honey Bunny, which bookends the film. The film jumps back and forth in time, revealing connections and consequences between the seemingly separate stories. Through sharp dialogue, dark humor, and unexpected violence, the film explores themes of fate, consequences, and moments of potential redemption. Jules, in particular, undergoes a transformation after a miraculous event. Butch finds himself in a violent, surreal predicament, and Vincent and Mia's evening takes a dangerous turn. The film's fragmented structure and distinct narrative style were highly influential, revitalizing the crime genre and independent cinema. It remains a landmark film known for its memorable characters, iconic scenes, and cultural impact.",
+      "wall": "https://images2.alphacoders.com/867/86710.jpg",
+      "date": "1994-10-14",
+      "imdb": 8.9,
+      "adult": true,
+      "country": "United States",
+      "lang": "English, Spanish, French",
+      "poster": "https://static.posters.cz/image/1300/1288.jpg",
+      "awards": "Won 1 Oscar (Best Original Screenplay), Nominated for 7 Oscars total, Won Palme d'Or at Cannes Film Festival, Won BAFTA Awards for Best Original Screenplay and Best Supporting Actor (Samuel L. Jackson), Won Golden Globe Award for Best Screenplay.",
+      "popular": true,
+      "fragmanID": "s7EdQ4FqbhY",
+      "videosID": [
+        "Y6YBKdmOlM8",
+        "zPxy2hbnC-k",
+        "D54wsAR5CAI",
+        "idV4GQRflHM",
+        "XNz0R90wG0s"
+      ],
+      "information": [
+        "Pulp Fiction's non-linear structure was a defining element that presented the story's events out of chronological order. While seemingly complex, the segmented narrative allowed director Quentin Tarantino to draw interesting parallels between characters and events, enhancing the film's themes and providing a fresh way to experience the story. It requires the audience to piece together the timeline, adding to the film's rewatchability.",
+        "The contents of the briefcase sought after by Jules and Vincent are never revealed, becoming one of cinema's most debated mysteries. Quentin Tarantino intentionally left the briefcase's contents ambiguous, stating it was a 'MacGuffin' – a plot device that drives the story forward but isn't important itself. This creative choice allows viewers to project their own ideas onto the briefcase and keeps the focus on the characters and their interactions.",
+        "Samuel L. Jackson's delivery of the Ezekiel 25:17 passage became one of the film's most iconic moments. While the Bible verse is slightly altered from the original, Jules's recitation and his evolving interpretation of its meaning are central to his character's arc. Initially a justification for violence, it later becomes a reflection on judgment and a path towards potential change for Jules.",
+        "The famous dance scene between Vincent Vega (John Travolta) and Mia Wallace (Uma Thurman) at Jack Rabbit Slim's is a memorable homage to classic movie musicals and pop culture. Tarantino drew inspiration from various sources, including the dance scene in Federico Fellini's '8½'. The scene highlights the chemistry between the characters and has become an enduring image associated with the film.",
+        "John Travolta's casting as Vincent Vega marked a significant resurgence for the actor's career, earning him an Academy Award nomination. Prior to Pulp Fiction, Travolta had not had a major hit in years. Tarantino's belief in his ability and the success of the film reignited Travolta's status as a leading Hollywood star."
+      ],
+      "faq": [
+        {
+          "question": "What is in the briefcase?",
+          "answer": "The contents of the briefcase are intentionally never revealed in the film. Director Quentin Tarantino described it as a MacGuffin, a plot device used to drive the story forward without its specific nature being important to the audience."
+        },
+        {
+          "question": "Why is the movie's story told out of chronological order?",
+          "answer": "Telling the story out of order was a stylistic choice by Quentin Tarantino to weave together the different plotlines, create unexpected connections between characters and events, and keep the audience engaged by constantly shifting perspective and revealing information non-sequentially."
+        },
+        {
+          "question": "Why does Jules (Samuel L. Jackson) quote the Bible?",
+          "answer": "Jules quotes a modified version of Ezekiel 25:17 throughout the film. It initially serves as his intimidating ritual before killing someone, but over the course of the movie, he grapples with its meaning and his role, suggesting a path towards spiritual reflection and a desire to change his life."
+        },
+        {
+          "question": "What happened to Marvin?",
+          "answer": "Marvin was accidentally shot and killed by Vincent Vega in the back of the car after Jules finished questioning him in Brett's apartment."
+        },
+        {
+          "question": "What does the title 'Pulp Fiction' mean?",
+          "answer": "The title refers to the inexpensive fiction magazines and paperback books printed on low-quality 'pulp' paper from the 1930s to 1950s. These stories often featured hard-boiled crime, gritty dialogue, and sensational plots, which influenced the film's style and content."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "The Good, the Bad and the Ugly",
+      "director": "Sergio Leone",
+      "actors": [
+        "Clint Eastwood",
+        "Eli Wallach",
+        "Lee Van Cleef",
+        "Aldo Giuffrè",
+        "Luigi Pistilli",
+        "Rada Rassimov",
+        "Enzo Petito",
+        "Claudio Scarchilli",
+        "Antonio Casale",
+        "Livio Lorenzon",
+        "Sandro Scarchilli",
+        "Benito Stefanelli",
+        "Angelo Novi",
+        "Antonio Casas",
+        "Aldo Sambrell",
+        "Al Mulock",
+        "Sergio Mendizábal",
+        "Antonio Molino Rojo",
+        "Lorenzo Robledo",
+        "Mario Brega"
+      ],
+      "format": "movie",
+      "category": [
+        "Epic",
+        "Western",
+        "Adventure",
+        "Drama"
+      ],
+      "duration": "177 minutes",
+      "desc": "A bounty hunting scam joins two men in an uneasy alliance against a third, a ruthless mercenary, who plans to find a hidden cache of gold during the Civil War.",
+      "story": "Set during the American Civil War, the film follows three distinct characters: 'Blondie' (the Good), a mysterious lone bounty hunter; 'Angel Eyes' (the Bad), a cruel and calculating mercenary; and 'Tuco' (the Ugly), a comical and opportunistic bandit. Their paths intertwine as they all seek a fortune in buried Confederate gold. Blondie and Tuco initially work together in a bounty-hunting scheme, but their distrust leads to betrayal. When Tuco learns the location of the graveyard where the gold is buried, and Blondie learns the name on the grave, they are forced into a fragile partnership. Angel Eyes, hearing rumors of the gold, relentlessly tracks them down, leaving a trail of bodies in his wake. The trio navigates through the chaotic landscape of the Civil War, encountering soldiers, prisoners, and civilians caught in the conflict. Their journey is marked by double-crosses, shootouts, and moments of unexpected alliance. The narrative builds towards an iconic three-way standoff in a desolate graveyard, where their greed and survival instincts collide in a tense confrontation for the hidden treasure, underscored by Ennio Morricone's legendary score.",
+      "wall": "https://images6.alphacoders.com/401/401408.jpg",
+      "date": "1966-12-23",
+      "imdb": 8.8,
+      "adult": false,
+      "country": "Italy, Spain, West Germany",
+      "lang": "Italian, English, Spanish, German",
+      "poster": "https://m.media-amazon.com/images/I/61V4s3EG9jL._AC_UF894,1000_QL80_.jpg",
+      "awards": "Won Grammy Hall of Fame Award for Ennio Morricone's score, Won OFTA Film Hall of Fame awards for Motion Picture and Score, Nominated for Laurel Award (Clint Eastwood).",
+      "popular": true,
+      "fragmanID": "A_hM11d02d4",
+      "videosID": [
+        "5PgAKzmWmuk",
+        "JrYtD7gSWsI",
+        "aJCSNIl2Pls",
+        "nouLQZCXW4A",
+        "pyTW_E1st-w"
+      ],
+      "information": [
+        "Ennio Morricone's iconic musical score is considered one of the greatest and most recognizable in film history. The distinctive main theme, incorporating coyote howls, was designed to represent the three main characters. The score is intricately woven into the film's narrative, often acting as a character itself and building tension during standoffs and key sequences.",
+        "Despite being set in the American Southwest, the majority of the film was shot in Spain, primarily in the Tabernas Desert in Andalusia. The arid landscapes and rugged terrain provided a convincing stand-in for the Civil War-era setting. An entire town and a large cemetery were constructed specifically for the film's production.",
+        "Director Sergio Leone's signature visual style is prominently displayed through his masterful use of extreme close-ups on characters' faces and eyes, contrasted with vast, sweeping wide shots of the landscape. This technique creates dramatic tension during confrontations and emphasizes the isolation and scale of the environment. It became a defining characteristic of the 'Spaghetti Western' genre.",
+        "Eli Wallach, who played Tuco, famously had difficulty communicating with Italian director Sergio Leone, who spoke little English. They often relied on a French-speaking assistant director to translate. Wallach has recounted several instances where miscommunication or a lack of safety precautions on set led to him being in genuinely dangerous situations during filming.",
+        "The film is the third installment in Sergio Leone's 'Dollars Trilogy', following 'A Fistful of Dollars' and 'For a Few Dollars More'. While the films are not directly narratively linked in a strict sense, they share stylistic elements, themes, and Clint Eastwood's character, often referred to as the 'Man with No Name'. The trilogy is credited with revolutionizing the Western genre."
+      ],
+      "faq": [
+        {
+          "question": "What do 'The Good, the Bad and the Ugly' refer to?",
+          "answer": "The title refers to the three main characters in the film: Blondie (played by Clint Eastwood) is 'The Good', Angel Eyes (played by Lee Van Cleef) is 'The Bad', and Tuco (played by Eli Wallach) is 'The Ugly'."
+        },
+        {
+          "question": "Is the movie historically accurate to the Civil War?",
+          "answer": "While the film is set during the American Civil War and incorporates historical elements like battles and prison camps, it is primarily a fictional story focused on the characters' treasure hunt. Historical accuracy is secondary to the film's narrative and stylistic goals as a 'Spaghetti Western'."
+        },
+        {
+          "question": "What is the significance of the final three-way standoff?",
+          "answer": "The final standoff is the iconic climax where the three main characters, each driven by greed and distrust, finally confront each other with their knowledge about the gold's location. It's a masterclass in visual storytelling and tension-building, defining their characters through action rather than dialogue."
+        },
+        {
+          "question": "How important is Ennio Morricone's score to the film?",
+          "answer": "Ennio Morricone's score is absolutely crucial; it's as famous and integral to the film as the actors and direction. His distinct themes are instantly recognizable and are used to introduce and define the characters, underscore dramatic moments, and build the unique atmosphere of the film."
+        },
+        {
+          "question": "Why do the characters constantly double-cross each other?",
+          "answer": "The characters are primarily motivated by intense greed for the buried gold. Their relationships are based on convenience and self-interest, leading them to form temporary, uneasy alliances followed by inevitable betrayals as each character tries to gain an advantage over the others."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "The Lord of the Rings: The Two Towers",
+      "director": "Peter Jackson",
+      "actors": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Viggo Mortensen",
+        "Sean Astin",
+        "Andy Serkis",
+        "Billy Boyd",
+        "Dominic Monaghan",
+        "Orlando Bloom",
+        "John Rhys-Davies",
+        "Bernard Hill",
+        "Miranda Otto",
+        "David Wenham",
+        "Brad Dourif",
+        "Karl Urban",
+        "Hugo Weaving",
+        "Cate Blanchett",
+        "Christopher Lee",
+        "Sean Bean",
+        "Liv Tyler",
+        "Craig Parker"
+      ],
+      "format": "movie",
+      "category": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Drama"
+      ],
+      "duration": "179 minutes",
+      "desc": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+      "story": "Following the breaking of the Fellowship, the story of The Two Towers splits into three main plot threads. Frodo and Sam continue their journey towards Mordor to destroy the One Ring, unexpectedly encountering and eventually being guided by Gollum, the creature formerly known as Sméagol, who is twisted by years of possessing the Ring. Meanwhile, Aragorn, Legolas, and Gimli pursue the Uruk-hai who captured Merry and Pippin, leading them to the kingdom of Rohan, which is threatened by Saruman's growing army and the corrupting influence on King Théoden. Their path culminates in the epic Battle of Helm's Deep, where a desperate defense is mounted against overwhelming odds. The third thread follows Merry and Pippin after they escape their captors, finding refuge in the ancient Fangorn Forest where they encounter Treebeard and the Ents. The hobbits rouse the Ents to action against Saruman, leading to the destruction of his stronghold, Orthanc. These parallel journeys emphasize the spreading conflict across Middle-earth and the diverse ways the forces of good and evil are gathering and clashing.",
+      "wall": "https://wallpapercat.com/w/full/b/7/1/565670-3840x2160-desktop-4k-the-two-towers-background-image.jpg",
+      "date": "2002-12-18",
+      "imdb": 8.8,
+      "adult": false,
+      "country": "New Zealand, United States, Germany",
+      "lang": "English",
+      "poster": "https://www.movieposters.com/cdn/shop/products/ff669a5b0330617314ed8cfcdf6c20f2_56c71411-f158-4ae3-8ec3-cf3fe9f91fab.jpg?v=1573587295",
+      "awards": "Won 2 Oscars (Best Sound Editing, Best Visual Effects), Nominated for 6 Oscars total, Won BAFTA Awards for Best Special Visual Effects and Costume Design, Won People's Choice Award for Favorite Dramatic Movie.",
+      "popular": true,
+      "fragmanID": "LbfMDvc4fyk",
+      "videosID": [
+        "gtEKXaUkQRI",
+        "4oGZsWWvGXQ",
+        "EApCLbgAE5E",
+        "ZvxEWRpzSlA",
+        "xVEYcTyj1Do"
+      ],
+      "information": [
+        "The Lord of the Rings trilogy was filmed concurrently in New Zealand over an extensive period, with principal photography lasting 438 days. This ambitious approach allowed for continuity and efficiency across the three films, creating a truly epic production scale. Many scenes for 'The Two Towers' were shot alongside those for 'Fellowship' and 'Return of the King'.",
+        "Weta Workshop created massive scale models for key locations, known as 'bigatures', including the fortress of Helm's Deep and Saruman's tower Orthanc. The Helm's Deep bigature was so large that it required its own warehouse. These highly detailed physical models were often blended seamlessly with CGI in the final film to create the stunning environments.",
+        "Andy Serkis's performance as Gollum was revolutionary, utilizing pioneering motion capture technology to bring the complex character to life. Serkis's physical and vocal performance on set was captured and then used by Weta Digital animators to create the digital character. This work set a new standard for CG character performance and earned Serkis widespread critical acclaim.",
+        "The Battle of Helm's Deep is one of the film's most monumental sequences, requiring months of night shoots and involving thousands of extras and digital characters. The detailed full-scale set of the fortress was built in a quarry. This massive logistical undertaking resulted in a cinematic battle sequence celebrated for its intensity, scale, and technical achievement.",
+        "As an adaptation, the film made several notable changes from J.R.R. Tolkien's novel, including the presence of Elves led by Haldir at the Battle of Helm's Deep and a different portrayal of Faramir's character arc regarding the One Ring. These changes were made by the screenwriters to enhance the dramatic pacing, interweave storylines, and connect the events more directly to the wider war unfolding in Middle-earth."
+      ],
+      "faq": [
+        {
+          "question": "What does the title 'The Two Towers' refer to?",
+          "answer": "The film's title, 'The Two Towers', most commonly refers to the towers of Orthanc (Saruman's stronghold in Isengard) and Barad-dûr (Sauron's fortress in Mordor), representing the two primary forces of evil in this part of the story."
+        },
+        {
+          "question": "Who is Gollum?",
+          "answer": "Gollum is a miserable creature who was once a Hobbit-like being named Sméagol, corrupted over centuries by the One Ring. He becomes the reluctant guide for Frodo and Sam on their journey to Mordor, constantly battling with his dual nature and obsession with the Ring."
+        },
+        {
+          "question": "What is the significance of the Battle of Helm's Deep?",
+          "answer": "The Battle of Helm's Deep is a crucial turning point in the war against Saruman. It represents a desperate last stand for the people of Rohan and demonstrates the courage of Men, Elves, and the Fellowship members in defending against a seemingly unstoppable evil force."
+        },
+        {
+          "question": "What happens to Merry and Pippin after they escape?",
+          "answer": "After escaping the Uruk-hai, Merry and Pippin find their way to Fangorn Forest where they meet Treebeard, the oldest of the Ents. They convince the Ents to become involved in the war against Saruman, leading to a devastating attack on Isengard."
+        },
+        {
+          "question": "Are there differences between the movie and the book 'The Two Towers'?",
+          "answer": "Yes, the film adaptation made several changes for cinematic purposes, such as altering the timeline of events, combining or omitting certain characters and scenes, and changing aspects of existing characters like Faramir and the involvement of Elves at Helm's Deep."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Inception",
+      "director": "Christopher Nolan",
+      "actors": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Elliot Page",
+        "Tom Hardy",
+        "Ken Watanabe",
+        "Cillian Murphy",
+        "Marion Cotillard",
+        "Tom Berenger",
+        "Michael Caine",
+        "Dileep Rao",
+        "Lukas Haas",
+        "Pete Postlethwaite",
+        "Talulah Riley",
+        "Tohoru Masamune",
+        "Yuji Okumoto",
+        "Taylor Geare",
+        "Claire Geare",
+        "Johnathan Geare",
+        "Magnus Nolan",
+        "Miranda Nolan"
+      ],
+      "format": "movie",
+      "category": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "duration": "148 minutes",
+      "desc": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "story": "Dom Cobb is a skilled extractor, a thief who enters people's dreams to steal valuable information from their subconscious. Haunted by his past and unable to return home to his children, Cobb is offered a chance at redemption by powerful businessman Mr. Saito. Saito wants Cobb to perform 'inception' - the rare and dangerous act of planting an idea into someone's mind rather than stealing one. The target is Robert Fischer, the heir to a corporate empire. Cobb assembles a specialized team: Arthur the point man, Eames the forger, Yusuf the chemist, and Ariadne the architect, who designs the dream landscapes. They embark on a complex mission, navigating multiple layers of the dream world, each with its own rules and challenges. They must evade projections (manifestations of the subject's subconscious) and deal with Cobb's own powerful and disruptive projection of his deceased wife, Mal. The mission becomes increasingly perilous as they descend deeper into the dream levels, facing escalating security and the risk of being trapped in Limbo, a state of infinite subconsciousness. The team executes a series of synchronized actions ('kicks') to wake up from each level, while Cobb confronts his inner demons to complete the inception and finally find his way back to reality and his family.",
+      "wall": "https://wallpapercave.com/wp/msi4htu.jpg",
+      "date": "2010-07-16",
+      "imdb": 8.8,
+      "adult": false,
+      "country": "United States, United Kingdom",
+      "lang": "English, Japanese, French",
+      "poster": "https://m.media-amazon.com/images/I/71uKM+LdgFL.jpg",
+      "awards": "Won 4 Oscars (Best Cinematography, Best Sound Editing, Best Sound Mixing, Best Visual Effects), Nominated for 8 Oscars total, Won BAFTA Awards for Production Design, Sound, and Special Visual Effects, Won Writers Guild of America Award for Best Original Screenplay.",
+      "popular": true,
+      "fragmanID": "YoHD9XEInc0",
+      "videosID": [
+        "i3-jlhJgU9U",
+        "IA5YlOXJ_PQ",
+        "i9zjvUywVG8",
+        "UJd4s9ntbS0",
+        "pQd1-4tqymo"
+      ],
+      "information": [
+        "One of the film's most memorable sequences, the zero-gravity fight scene in the hotel corridor, was achieved using practical effects with a massive revolving set. Actor Joseph Gordon-Levitt, who played Arthur, performed most of his own stunts for this technically challenging scene. Filming this sequence was complex and required significant planning and precision to simulate the weightless environment realistically.",
+        "Director Christopher Nolan has discussed how the process of inception and the roles of the team members serve as a metaphor for filmmaking itself. Cobb is the director with the vision, Arthur is the producer handling logistics, Ariadne is the production designer creating the world, Eames is the actor playing roles, and Saito is the studio financing the project. This meta-commentary adds another layer of interpretation to the film's intricate narrative.",
+        "Hans Zimmer's distinctive and powerful musical score significantly contributes to the film's atmosphere and tension. The now-famous deep, booming 'horn blasts' (often described as 'BWAAAH') were created by slowing down a vocal recording of Edith Piaf singing 'Non, je ne regrette rien', which is also used within the film's plot as a 'kick' song. The score earned Zimmer an Academy Award nomination and became highly influential.",
+        "The film's ambiguous final shot, showing Cobb's totem (a spinning top) continuing to spin as the scene cuts to black, is one of the most debated endings in cinematic history. The totem is used to distinguish dream from reality, as it should spin indefinitely in a dream but eventually fall in reality. By cutting before the top can fall, Nolan deliberately leaves it up to the audience to decide if Cobb has truly returned home.",
+        "The concept of a totem is central to the film's exploration of reality versus illusion. Each team member has a small, unique object that behaves predictably in the real world but differently in a dream (e.g., the spinning top, a loaded dice). By checking their totem, a character can verify their reality, emphasizing the subjective nature of perception within the film's complex layers."
+      ],
+      "faq": [
+        {
+          "question": "What does the ending mean? Is Cobb in a dream or reality?",
+          "answer": "The film intentionally leaves the ending ambiguous. Cobb's totem, the spinning top, is used to test reality; it should spin forever in a dream but fall in reality. The film cuts before the top falls, leaving the audience to interpret whether Cobb has returned to the real world or is still in a dream state."
+        },
+        {
+          "question": "How do 'kicks' work to wake characters up?",
+          "answer": "A 'kick' is a sudden jolt or sensation used to wake someone up from a dream level. Kicks are often synchronized across multiple dream layers, becoming more powerful at each level to ensure the team wakes up simultaneously back to a designated point in the real world."
+        },
+        {
+          "question": "What is Limbo?",
+          "answer": "Limbo is a deep, infinite dream space where someone ends up if they die within a dream level or use very strong sedatives. It's a world of pure subconscious creation with no structure, where time passes drastically slower than reality, risking the person losing their mind and becoming permanently trapped."
+        },
+        {
+          "question": "Why does Mal keep appearing and interfering in Cobb's dreams?",
+          "answer": "Mal is a powerful projection of Cobb's deceased wife, representing his guilt, trauma, and subconscious inability to let go of her after their time spent in Limbo and her eventual death in reality. She actively sabotages his missions because his subconscious still believes they are in a dream and tries to force him to 'wake up' by dying."
+        },
+        {
+          "question": "What is the purpose of a totem?",
+          "answer": "A totem is a small, personal object unique to each team member. Its specific weight, feel, or behavior is known only to its owner. By interacting with their totem (like spinning a top or rolling dice), a character can test if they are in their own objective reality or a dream world created by someone else, where the totem would not behave as expected."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "The Matrix",
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "actors": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss",
+        "Hugo Weaving",
+        "Gloria Foster",
+        "Joe Pantoliano",
+        "Marcus Chong",
+        "Julian Arahanga",
+        "Matt Doran",
+        "Belinda McClory",
+        "Anthony Ray Parker",
+        "Paul Goddard",
+        "Robert Taylor",
+        "David Aston",
+        "Marc Aden Gray",
+        "Ada Nicodemou",
+        "Deni Gordon",
+        "Rowan Witt",
+        "Eleanor Witt",
+        "Tamara Brown"
+      ],
+      "format": "movie",
+      "category": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "duration": "136 minutes",
+      "desc": "A computer hacker discovers that reality as he knows it is a simulation created by machines, and joins a rebellion to free humanity.",
+      "story": "Thomas Anderson, a computer programmer leading a secret life as the hacker 'Neo', begins questioning the reality of his world after encountering cryptic messages. He is contacted by the legendary hacker Morpheus, who offers him a choice between a blue pill, allowing him to remain in blissful ignorance, and a red pill, revealing the truth. Neo chooses the red pill and awakens to discover that the year is actually closer to 2199, and humanity is enslaved by intelligent machines, kept docile in a vast simulated reality called the Matrix. His perceived reality of 1999 is merely a computer program. Rescued and brought aboard Morpheus's hovercraft, the Nebuchadnezzar, Neo joins the crew including Trinity, Switch, Apoc, Tank, Dozer, and Cypher. Morpheus believes Neo is 'The One', a prophesied individual with the power to manipulate the Matrix's rules and liberate humanity. Neo undergoes rigorous training, learning martial arts and how to bend the Matrix's laws. He struggles to fully believe in his potential and seeks guidance from the Oracle. The crew faces constant threat from the Agents, sentient programs within the Matrix designed to eliminate threats to the system, led by the formidable Agent Smith. A betrayal within the crew leads to Morpheus's capture, forcing Neo and Trinity to mount a daring rescue. Neo's growing power culminates in a final confrontation with Agent Smith, where Neo embraces his destiny as The One, gaining control over the Matrix.",
+      "wall": "https://images.alphacoders.com/985/985562.jpg",
+      "date": "1999-03-31",
+      "imdb": 8.7,
+      "adult": false,
+      "country": "United States, Australia",
+      "lang": "English",
+      "poster": "https://m.media-amazon.com/images/I/71PfZFFz9yL._AC_UF894,1000_QL80_.jpg",
+      "awards": "Won 4 Oscars (Best Film Editing, Best Sound, Best Sound Effects Editing, Best Visual Effects), Won BAFTA Awards for Special Visual Effects and Sound, Won Saturn Award for Best Science Fiction Film.",
+      "popular": true,
+      "fragmanID": "vKQi3bBAys1",
+      "videosID": [
+        "Z2eCmhBgsyI",
+        "YgJ5ZEn67tk",
+        "VVXV9SSDXKk",
+        "uXGE0vuuaDo",
+        "sjoad6gcRzs"
+      ],
+      "information": [
+        "The film popularized the visual effect known as 'bullet time', where the camera appears to move in slow motion around a scene or character performing an action. This effect was achieved using a complex rig of multiple still cameras triggered in sequence, creating a seamless freeze-frame effect that then allowed for digital camera movement. It became instantly iconic and widely imitated in subsequent films and media.",
+        "To prepare for their physically demanding roles and the intricate fight choreography, the main actors, including Keanu Reeves, Carrie-Anne Moss, Laurence Fishburne, and Hugo Weaving, underwent rigorous martial arts training for several months before filming began. This extensive training allowed them to perform many of their own stunts and fight sequences, adding authenticity to the action.",
+        "The film's distinctive look was heavily influenced by cyberpunk aesthetics, martial arts films, and anime. The iconic black leather costumes and custom-designed sunglasses worn by the characters became major cultural fashion trends. These visual elements helped establish the film's unique style and futuristic, dystopian atmosphere.",
+        "The Matrix is deeply layered with philosophical and religious allusions, drawing from sources like Plato's 'Allegory of the Cave', Gnosticism, and various world religions. The concept of Neo as a potential Messiah figure, themes of free will vs. determinism, and the nature of reality are central to the narrative. These complex ideas contributed significantly to the film's critical acclaim and enduring cultural impact.",
+        "The Wachowskis originally considered other actors for the lead roles, including Brad Pitt, Val Kilmer, and Will Smith for Neo, and Sandra Bullock or Salma Hayek for Trinity. However, they eventually cast Keanu Reeves and Carrie-Anne Moss, who were not huge action stars at the time, believing they were the right fit for the characters and could embody the specific blend of vulnerability and potential needed."
+      ],
+      "faq": [
+        {
+          "question": "What does the title 'The Matrix' refer to?",
+          "answer": "The Matrix is the vast, simulated reality created by intelligent machines to imprison the minds of humans while using their bodies as an energy source. It is the artificial world that Thomas Anderson (Neo) initially believes is reality."
+        },
+        {
+          "question": "What is 'The One'?",
+          "answer": "'The One' is a prophesied individual within the Matrix who possesses the ability to bend or break the rules of the simulation, perform seemingly impossible feats, and potentially bring an end to the war between humans and machines."
+        },
+        {
+          "question": "What is the significance of the red pill and the blue pill?",
+          "answer": "Morpheus offers Neo a fundamental choice: the blue pill represents ignorance and remaining in the artificial reality of the Matrix, while the red pill represents choosing to learn the painful truth about the real world and joining the fight for freedom."
+        },
+        {
+          "question": "Why do the characters use hard-line telephones to enter and exit the Matrix?",
+          "answer": "Within the rules established in the film, hard-line connections (like landline telephones or dedicated terminals) serve as stable, secure entry and exit points from the Matrix simulation back to the rebels' hovercraft in the real world. Wireless connections are not viable or safe for this process."
+        },
+        {
+          "question": "Is Zion a real place or another level of the Matrix?",
+          "answer": "According to the first film, Zion is presented as the last remaining human city in the real world, built underground near the Earth's core for warmth and protection from the machines. It serves as the base of operations for the human rebellion."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Interstellar",
+      "director": "Christopher Nolan",
+      "actors": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain",
+        "Bill Irwin",
+        "Ellen Burstyn",
+        "Michael Caine",
+        "John Lithgow",
+        "David Gyasi",
+        "Wes Bentley",
+        "Casey Affleck",
+        "Timothée Chalamet",
+        "Mackenzie Foy",
+        "Matt Damon",
+        "Topher Grace",
+        "David Oyelowo",
+        "Collette Wolfe",
+        "Elyes Gabel",
+        "William Devane",
+        "Leah Cairns",
+        "Josh Stewart"
+      ],
+      "format": "movie",
+      "category": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Drama"
+      ],
+      "duration": "169 minutes",
+      "desc": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "story": "In a near future where Earth is becoming uninhabitable due to blight and dust storms, former NASA pilot Cooper has become a farmer. He discovers a secret NASA operation led by Professor Brand, which plans to use a newly discovered wormhole near Saturn to find a new home for humanity. Cooper is recruited to pilot the Endurance spacecraft through the wormhole on a mission to investigate potentially habitable planets identified in previous 'Lazarus' missions. He leaves his daughter Murph and son Tom behind, promising to return. The crew, including Brand, Doyle, Romilly, and the robots TARS and CASE, travels to the wormhole. Their journey takes them to planets orbiting a supermassive black hole named Gargantua. The first planet visited, Miller's planet, is subject to extreme time dilation due to its proximity to Gargantua; one hour there equals seven years on Earth. A disaster on this planet results in significant time loss and the death of Doyle. They then travel to Mann's planet, where they find the seemingly heroic Dr. Mann, but discover he has been transmitting false data and attempts to save himself by betraying the crew. After a perilous escape and the death of Romilly, Cooper and Brand use Gargantua for a slingshot maneuver towards Edmund's planet. Cooper sacrifices himself by entering Gargantua and somehow finds himself in a tesseract, a multi-dimensional space created by future humans. He uses gravity to communicate messages to a young Murph in the past, providing the data needed to solve the gravity equation and save humanity. Cooper is eventually found and rescued, waking up on a space station orbiting Saturn, where he reunites with an elderly, dying Murph. Learning that Brand is still alive on Edmund's planet, Cooper takes a spacecraft to find her, hoping to continue the mission of establishing humanity's new home.",
+      "wall": "https://images6.alphacoders.com/590/thumb-1920-590933.jpg",
+      "date": "2014-11-07",
+      "imdb": 8.7,
+      "adult": false,
+      "country": "United States, United Kingdom",
+      "lang": "English",
+      "poster": "https://m.media-amazon.com/images/I/61wrhEawgQL._AC_UF1000,1000_QL80_.jpg",
+      "awards": "Won 1 Oscar (Best Visual Effects), Nominated for 5 Oscars total, Won BAFTA Award for Best Special Visual Effects, Won Saturn Awards for Best Science Fiction Film, Best Director, and Best Writing.",
+      "popular": true,
+      "fragmanID": "zSWdZVtXT7E",
+      "videosID": [
+        "a3lcGnMhvsA",
+        "MoLkabPK3YU",
+        "4Hf_XkgE1d0",
+        "v2H1s9gj5DA",
+        "onVhbeY7nLM"
+      ],
+      "information": [
+        "Theoretical physicist Kip Thorne served as both an executive producer and a scientific consultant for the film, ensuring that the depiction of complex astrophysical concepts like wormholes, black holes, and time dilation was grounded in scientific theory. His involvement led to scientific papers being published based on the work done for the film's visual effects. Thorne's guidance was crucial in balancing scientific accuracy with the narrative needs of the story.",
+        "The visual effects team at Double Negative, in collaboration with Kip Thorne, developed new computer code based on actual physics equations to render the black hole, Gargantua, and the wormhole as accurately as possible. This scientific approach resulted in stunning and scientifically plausible visualizations, contributing to a better understanding of how these cosmic phenomena might appear. The process itself reportedly led to new scientific discoveries about gravitational lensing.",
+        "Director Christopher Nolan opted to use practical effects and shoot in real locations whenever possible to give the film a tangible sense of realism. For the alien planets, they filmed in Iceland's diverse landscapes to represent the water and ice worlds, while areas in Alberta, Canada, stood in for the Dust Bowl-ravaged Earth. This preference for in-camera effects created a more immersive and visceral experience for the audience compared to relying solely on green screens.",
+        "The film's depiction of Earth suffering from environmental collapse and aggressive blight was partly inspired by the historical Dust Bowl of the 1930s in the United States, a period of severe dust storms that greatly damaged the ecology and agriculture. Nolan incorporated interviews with survivors of the Dust Bowl into the film to lend an air of documentary realism to the fictional future setting, highlighting the potential consequences of ecological disaster.",
+        "Hans Zimmer composed the film's powerful and emotional score, which heavily features the organ to create a sense of awe and gravitas. The score is known for its minimalist yet impactful approach, often building tension and emphasizing the vastness and mystery of space. Zimmer worked closely with Nolan to develop a sound that was both unique and deeply connected to the film's themes of exploration and human connection."
+      ],
+      "faq": [
+        {
+          "question": "What does the ending of Interstellar mean?",
+          "answer": "The ending shows Cooper being found after entering the black hole and somehow ending up in a Tesseract, a construct where he can interact with Murph through gravity across time. He is rescued and reunites with his elderly daughter on a space station. He then leaves to find Brand, suggesting the continuation of his journey and humanity's search for a new home."
+        },
+        {
+          "question": "How does time dilation work in the film?",
+          "answer": "Time dilation is a real phenomenon predicted by Einstein's theory of relativity, where time passes slower for an observer in a stronger gravitational field or moving at higher speeds relative to another observer. In the film, the strong gravity of the black hole Gargantua causes significant time dilation, explaining why only hours pass for the astronauts on Miller's planet while decades pass on Earth."
+        },
+        {
+          "question": "What is the Tesseract that Cooper enters?",
+          "answer": "The Tesseract is depicted as a multi-dimensional space, seemingly created by future humans, within the black hole. It allows Cooper to visualize time as a physical dimension and enables him to communicate with his daughter Murph in the past through gravitational waves, ultimately providing her with the data needed to save humanity."
+        },
+        {
+          "question": "What is the role of 'love' in the film?",
+          "answer": "The film suggests that love is a powerful, fundamental force that transcends dimensions and time, akin to gravity. Brand theorizes that love is not just an emotion but a tangible force that guided Cooper to the Tesseract and motivated him to communicate with Murph, playing a crucial role in their efforts to save humanity."
+        },
+        {
+          "question": "What happened to Dr. Mann?",
+          "answer": "Dr. Mann, a revered astronaut from a previous mission, is discovered alive on his planet but is revealed to be a deceitful and desperate survivor who faked his planet's habitability data. He attempts to steal Cooper's spacecraft but fails and is killed when he tries to dock improperly with the Endurance, highlighting the darker side of human nature in the face of survival."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "One Flew Over the Cuckoo's Nest",
+      "director": "Miloš Forman",
+      "actors": [
+        "Jack Nicholson",
+        "Louise Fletcher",
+        "Danny DeVito",
+        "Will Sampson",
+        "Sydney Lassick",
+        "Brad Dourif",
+        "Christopher Lloyd",
+        "William Redfield",
+        "Mimi Sarkisian",
+        "Lan Fendors",
+        "Mews Small",
+        "Mwako Cumbuka",
+        "Vincent Schiavelli",
+        "Dean R. Brooks",
+        "Josip Elic",
+        "Nathan George",
+        "Delos V. Smith Jr.",
+        "Scatman Crothers",
+        "Ken Kenny",
+        "William Duell"
+      ],
+      "format": "movie",
+      "category": [
+        "Drama",
+        "Comedy-Drama"
+      ],
+      "duration": "133 minutes",
+      "desc": "A criminal feigning insanity is sent to a mental institution, where his rebellious spirit challenges the oppressive authority of the head nurse.",
+      "story": "Randle McMurphy is a free-spirited convict who fakes mental illness to serve his prison sentence in a psychiatric hospital, hoping for an easier life. However, he quickly discovers the oppressive environment ruled by the tyrannical Nurse Ratched, who uses psychological manipulation to control her patients. McMurphy becomes a disruptive force on the ward, challenging Ratched's authority and encouraging the other patients – a diverse group including the timid Billy Bibbit, paranoid Dale Harding, childlike Martini, and the towering, seemingly deaf and mute Chief Bromden – to rebel and reclaim their individuality. McMurphy organizes unauthorized activities like a fishing trip and a late-night party, bringing moments of joy and freedom to the regimented lives of the patients. His defiance escalates the conflict with Nurse Ratched, who sees him as a threat to her power and the ward's order. The film culminates in tragic events that highlight the devastating impact of Ratched's control, particularly on Billy. In the end, after McMurphy is subjected to a lobotomy, Chief Bromden, inspired by McMurphy's spirit and having found his voice again, smothers McMurphy as an act of mercy and escapes the institution by breaking through a window, carrying the torch of rebellion.",
+      "wall": "https://i.ebayimg.com/00/s/OTAwWDE2MDA=/z/ek0AAOSwR3BnJSM8/$_57.JPG?set_id=880000500F",
+      "date": "1975-11-19",
+      "imdb": 8.7,
+      "adult": false,
+      "country": "United States",
+      "lang": "English",
+      "poster": "https://m.media-amazon.com/images/I/61c5Aw3wdDL._AC_UF894,1000_QL80_.jpg",
+      "awards": "Won 5 Oscars (Best Picture, Best Director, Best Actor, Best Actress, Best Adapted Screenplay), Sweeping the 'Big Five' awards. Won Golden Globe Awards for Best Motion Picture - Drama, Director, Actor, Actress, and Screenplay. Won BAFTA Awards for Best Film, Actor, Actress, and Direction.",
+      "popular": true,
+      "fragmanID": "OXrcDonY-B8",
+      "videosID": [
+        "LBHN7aJGogY",
+        "ehPcYibzUKc",
+        "Pc0_Xnvl3t4",
+        "NtECHu3VzdQ",
+        "XI_4HtIJYDM"
+      ],
+      "information": [
+        "The film was largely shot on location at the Oregon State Mental Hospital in Salem, Oregon, adding a layer of raw authenticity to the setting. Many actual patients from the hospital were cast as extras in the film, and the hospital superintendent, Dr. Dean R. Brooks, played a small role as Dr. Spivey and provided input on the script to ensure some degree of realism in the portrayal of institution life.",
+        "One Flew Over the Cuckoo's Nest achieved a rare feat at the 48th Academy Awards, winning all five major categories: Best Picture, Best Director (Miloš Forman), Best Actor (Jack Nicholson), Best Actress (Louise Fletcher), and Best Adapted Screenplay. It was the first film since 'It Happened One Night' in 1934 to accomplish this 'Big Five' sweep, cementing its status as a critical and commercial success.",
+        "Louise Fletcher delivered a memorable and complex performance as Nurse Ratched, for which she won the Best Actress Oscar. Fletcher approached the character not as a purely evil villain but as someone who genuinely believed her methods were therapeutic and necessary for maintaining order, albeit through oppressive and harmful means. Her portrayal created one of cinema's most iconic antagonists.",
+        "Jack Nicholson's portrayal of Randle McMurphy is considered one of his defining roles and earned him his first Best Actor Oscar. Instead of taking a large upfront salary, Nicholson opted for a percentage of the film's profits, a decision that paid off immensely when the low-budget film became a massive box office success, grossing over $100 million.",
+        "The film is an adaptation of Ken Kesey's acclaimed 1962 novel, but it makes significant departures, most notably by changing the narrator. The book is famously narrated by Chief Bromden, offering his internal, often unreliable perspective, while the film adopts a more conventional third-person perspective centered around McMurphy's actions. This change fundamentally alters the storytelling experience."
+      ],
+      "faq": [
+        {
+          "question": "What does the title 'One Flew Over the Cuckoo's Nest' mean?",
+          "answer": "The title comes from a line in a nursery rhyme that appears in the original novel. It's often interpreted as symbolizing the act of escaping the confines of the mental institution ('the cuckoo's nest') or perhaps transcending the state of madness itself, reflecting the theme of breaking free from oppression."
+        },
+        {
+          "question": "What is the relationship between McMurphy and Chief Bromden?",
+          "answer": "McMurphy recognizes that Chief is not deaf or mute and befriends him, encouraging him to speak and regain his strength. McMurphy becomes a catalyst for Chief's transformation, ultimately inspiring him to break free from the institution after McMurphy is no longer able to."
+        },
+        {
+          "question": "Is Nurse Ratched evil?",
+          "answer": "Nurse Ratched is the film's primary antagonist, representing oppressive institutional authority. While her methods are cruel and manipulative, some interpretations suggest she believes she is acting for the patients' own good, albeit through a rigid and controlling system that ultimately harms them. She embodies a chilling form of bureaucratic power."
+        },
+        {
+          "question": "How does the movie adaptation differ from Ken Kesey's novel?",
+          "answer": "The most significant difference is the narrative perspective. The novel is narrated by Chief Bromden, providing his unique and subjective point of view, while the film uses a more objective, third-person perspective focusing on McMurphy. The book also gives more backstory and internal thoughts, and the ending has slight variations."
+        },
+        {
+          "question": "What is the significance of the ending?",
+          "answer": "The ending is powerful and bittersweet. McMurphy is tragically defeated by the system through a lobotomy, but his rebellious spirit lives on through Chief. Chief's act of mercy towards McMurphy and his subsequent escape represent a victory for individuality and freedom, showing that McMurphy's struggle was not in vain."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "The Pianist",
+      "director": "Roman Polanski",
+      "actors": [
+        "Adrien Brody",
+        "Thomas Kretschmann",
+        "Emilia Fox",
+        "Ed Stoppard",
+        "Frank Finlay",
+        "Jessica Kate Meyer",
+        "Michal Zebrowski",
+        "Maureen Lipman",
+        "Nomi Sharron",
+        "Julia Rayner",
+        "Wanja Mues",
+        "Andrzej Blumenfeld",
+        "Ruth Platt",
+        "Richard Ridings",
+        "Anthony Milner",
+        "Lucie Skeaping",
+        "Ben Harlan",
+        "Daniel Caltagirone",
+        "Valentine Pelka",
+        "Zbigniew Zamachowski"
+      ],
+      "format": "movie",
+      "category": [
+        "Biography",
+        "Drama",
+        "Music",
+        "War",
+        "Historical"
+      ],
+      "duration": "150 minutes",
+      "desc": "A Polish Jewish musician struggles to survive the destruction of the Warsaw Ghetto during World War II.",
+      "story": "Based on the true story of Władysław Szpilman, a celebrated Polish Jewish pianist, the film chronicles his harrowing experiences during World War II in Warsaw. When Germany invades Poland, Szpilman and his family face increasing persecution under Nazi occupation, culminating in their forced relocation to the Warsaw Ghetto. Life in the ghetto is depicted with stark realism, showing overcrowding, starvation, and constant fear. Szpilman witnesses the horrors and indignities inflicted upon the Jewish population. Eventually, during the mass deportations to concentration camps, Szpilman is miraculously separated from his family thanks to a friend among the Jewish police. He manages to survive outside the ghetto walls, constantly in hiding in abandoned buildings and relying on the help of various Polish friends and members of the resistance, enduring starvation, illness, and the constant threat of capture. The film shows the Warsaw Ghetto Uprising and the subsequent systematic destruction of the city. Szpilman's isolation and struggle for survival intensify in the ruins of Warsaw. In the final months of the war, he is discovered by a German Wehrmacht officer, Captain Wilm Hosenfeld, who, instead of turning him in, helps him by providing food and shelter. Szpilman survives until the Soviet army liberates Warsaw, a solitary survivor amidst the devastation, forever marked by his experiences.",
+      "wall": "https://wallpapercave.com/wp/wp3724179.jpg",
+      "date": "2002-05-24",
+      "imdb": 8.5,
+      "adult": false,
+      "country": "France, United Kingdom, Germany, Poland",
+      "lang": "English, German, Russian, Polish",
+      "poster": "https://lh3.googleusercontent.com/proxy/xLui1UnbuM1dG5-xGNPjOT4x0iBp-uplnwPeVutLLkDdtYocg-oNDXaHULn9-2Txyw25O8xdUcWP3oO_q97bUt2zm8tPJz0W",
+      "awards": "Won 3 Oscars (Best Director, Best Actor, Best Adapted Screenplay), Nominated for 7 Oscars total, Won Palme d'Or at Cannes Film Festival, Won BAFTA Awards for Best Film and Best Direction, Won César Awards for Best Film, Director, and Actor.",
+      "popular": true,
+      "fragmanID": "BFwGqLa_oAo",
+      "videosID": [
+        "MW-LSIRNI4k",
+        "tmsRhU8L6iE",
+        "kJp_8AaeWI8",
+        "3ziikUYi03I",
+        "VOvoQP_0Mjs"
+      ],
+      "information": [
+        "The film is based on the powerful and moving autobiography of Władysław Szpilman, a Polish-Jewish pianist who documented his survival during the Holocaust in Warsaw. Szpilman's memoir, originally published shortly after the war, provides a first-hand account of the atrocities, loss, and sheer struggle for existence in the Warsaw Ghetto and the subsequent destruction of the city. Director Roman Polanski aimed for a faithful and unflinching adaptation of this historical record.",
+        "Adrien Brody undertook an intense physical and psychological transformation to portray Szpilman, winning the Academy Award for Best Actor for his performance. He learned to play Chopin on the piano, lost 30 pounds, and deliberately isolated himself by giving up his apartment, car, and phone to understand Szpilman's profound sense of loss and displacement. This deep immersion in the role contributed significantly to the raw and compelling portrayal of survival.",
+        "Director Roman Polanski, a Polish Jew who survived the Holocaust by escaping the Kraków Ghetto as a child, brought a deeply personal connection to the film. He drew upon his own traumatic childhood memories and experiences of hiding and survival to inform the film's visual style, tone, and emotional weight. This personal perspective lent an authentic and powerful dimension to the depiction of wartime Poland.",
+        "Filming took place in meticulously recreated locations in Warsaw, Poland, and at Studio Babelsberg in Germany, aiming for historical accuracy in depicting the Warsaw Ghetto and the city's destruction. The production design team worked extensively to recreate the oppressive environment of the ghetto and the desolate ruins of the city. This commitment to authentic locations and sets enhanced the film's powerful portrayal of the historical events.",
+        "The Pianist received widespread critical acclaim and numerous prestigious awards. It won the coveted Palme d'Or at the Cannes Film Festival and went on to win three Academy Awards, including Best Director for Roman Polanski and Best Actor for Adrien Brody, out of seven nominations. These accolades recognized the film's powerful storytelling, directorial skill, and lead performance in depicting a difficult and important historical narrative."
+      ],
+      "faq": [
+        {
+          "question": "Is the story of Władysław Szpilman true?",
+          "answer": "Yes, the film is based on the real-life experiences of Władysław Szpilman as documented in his autobiographical book, 'The Pianist'. It recounts his survival in Warsaw during the Holocaust."
+        },
+        {
+          "question": "What happened to the German officer, Captain Hosenfeld, who helped Szpilman?",
+          "answer": "Captain Wilm Hosenfeld, the German officer who helped Szpilman, was captured by the Soviet army. Despite Szpilman's efforts after the war to locate him and request his release, Hosenfeld died in a Soviet prisoner-of-war camp in 1952."
+        },
+        {
+          "question": "What role does music play in Szpilman's survival?",
+          "answer": "Music is fundamental to Szpilman's identity as a pianist and serves as a source of strength and resilience. Although often unable to play physically, the music in his mind and the act of playing for Hosenfeld represent his enduring humanity, connection to his past, and a form of silent resistance against the dehumanizing conditions."
+        },
+        {
+          "question": "How did Adrien Brody prepare for the role of Szpilman?",
+          "answer": "Adrien Brody underwent intense preparation, including learning to play Chopin, drastically losing weight, selling his apartment and car, and isolating himself. These sacrifices were aimed at physically and mentally understanding the profound loss, hardship, and loneliness Szpilman experienced."
+        },
+        {
+          "question": "What happened to Władysław Szpilman after the war?",
+          "answer": "After surviving the war, Władysław Szpilman returned to his career as a pianist and composer for Polish Radio. He wrote his memoir, 'The Pianist', about his wartime experiences and continued to perform and compose until his death in Warsaw in 2000."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Parasite",
+      "director": "Bong Joon Ho",
+      "actors": [
+        "Song Kang-ho",
+        "Lee Sun-kyun",
+        "Cho Yeo-jeong",
+        "Choi Woo-shik",
+        "Park So-dam",
+        "Jang Hye-jin",
+        "Park Myung-hoon",
+        "Lee Jung-eun",
+        "Jung Ji-so",
+        "Jung Hyeon-jun",
+        "Park Seo-joon",
+        "Park Keun-rok",
+        "Jung Yi-Seo",
+        "Lee Si-Hoon",
+        "Lee Dong-yong",
+        "Andreas Fronk",
+        "Kwak Sin-ae",
+        "Anna Elisabeth Rihlmann",
+        "Lee Joo-hyung"
+      ],
+      "format": "movie",
+      "category": [
+        "Black Comedy",
+        "Thriller",
+        "Drama",
+        "Mystery"
+      ],
+      "duration": "132 minutes",
+      "desc": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+      "story": "The Kim family – father Ki-taek, mother Chung-sook, son Ki-woo, and daughter Ki-jung – live in a cramped, semi-basement apartment, struggling to make ends meet. Their lives change when Ki-woo's friend, a university student, recommends him for a well-paying job as an English tutor for the wealthy Park family's daughter, Da-hye, while he studies abroad. Seeing an opportunity, Ki-woo, using a fake university certificate, infiltrates the Park household. He and his sister, Ki-jung, quickly devise a plan to get the rest of their family employed by the Parks by posing as unrelated, highly qualified individuals. Ki-jung becomes the son Da-song's art therapist, Ki-taek replaces the chauffeur, and Chung-sook takes over as the housekeeper after they cleverly frame the previous employees. The Kim family successfully integrates themselves into the luxurious Park household, living a comfortable life in secret. However, their deception is threatened when they uncover a shocking secret hidden within the house's elaborate basement, involving the former housekeeper Moon-gwang and her husband, Geun-sae. This discovery leads to a tense and escalating conflict between the two families, exposing the harsh realities of class disparity, social parasitism, and the desperation that drives people to extreme measures. The film builds towards a shocking and violent climax during a garden party at the Park residence, where the simmering tensions erupt with tragic consequences for everyone involved, leaving a lasting commentary on inequality.",
+      "wall": "https://images.wallpapersden.com/image/download/parasite-movie-poster_a25la2eUmZqaraWkpJRmbmdlrWZlbWU.jpg",
+      "date": "2019-05-30",
+      "imdb": 8.5,
+      "adult": false,
+      "country": "South Korea",
+      "lang": "Korean, English",
+      "poster": "https://m.media-amazon.com/images/I/91KArYP03YL._AC_UF894,1000_QL80_.jpg",
+      "awards": "Won 4 Oscars (Best Picture, Best Director, Best Original Screenplay, Best International Feature Film), Nominated for 6 Oscars total. First non-English film to win Best Picture. Won Palme d'Or at Cannes Film Festival. Won Golden Globe Award for Best Foreign Language Film. Won BAFTA Awards for Best Film Not in the English Language and Best Original Screenplay.",
+      "popular": true,
+      "fragmanID": "5xH0HfJHsaY",
+      "videosID": [
+        "qDbgR87TCZ4",
+        "NfnUxezKcu0",
+        "e7JPNXt_oqM",
+        "8EJe2B8VgHY",
+        "ZNFdGfouBh0"
+      ],
+      "information": [
+        "Parasite made history at the 92nd Academy Awards by becoming the first non-English language film to win the prestigious Best Picture award. It also won Best Director, Best Original Screenplay, and Best International Feature Film, marking a groundbreaking moment for South Korean cinema and international filmmaking on the global stage. This unprecedented success highlighted the film's universal themes and masterful execution.",
+        "The film received the Palme d'Or, the highest prize at the Cannes Film Festival, by a unanimous vote from the jury, a rare achievement. This early recognition at one of the world's most esteemed film festivals immediately positioned 'Parasite' as a major critical success and a strong contender for international awards, paving the way for its historic Oscar run.",
+        "Director Bong Joon Ho uses the film's narrative and setting to provide a sharp and insightful critique of social inequality and class struggle. The stark contrast between the Kim family's cramped semi-basement apartment and the Park family's sprawling, luxurious house serves as a powerful visual metaphor for the wealth gap. The film explores the complex dynamics and tensions that arise when these two worlds collide, reflecting issues present in South Korea and many other societies.",
+        "The modernist house where the Park family lives was largely designed and built specifically for the film by director Bong Joon Ho and production designer Lee Ha-jun. The multi-layered structure, with its distinct levels and hidden spaces, is integral to the plot and serves as a symbolic representation of the class hierarchy and the secrets buried within it. Its design allowed for specific blocking and visual storytelling that enhanced the film's themes.",
+        "The title 'Parasite' is intentionally ambiguous, prompting the audience to question which family the title truly refers to. It could describe the Kim family for embedding themselves in the Parks' lives, or it could also apply to the Parks who are dependent on the Kims' (and others') labor to maintain their lifestyle. This ambiguity challenges viewers to think critically about the nature of social relationships and economic systems."
+      ],
+      "faq": [
+        {
+          "question": "What does the title 'Parasite' mean, and who is the parasite?",
+          "answer": "The title is open to interpretation. It can refer to the Kim family as they infiltrate and live off the wealthy Park family. However, it can also refer to the Park family, who are dependent on the labor of others to maintain their lifestyle. The film encourages the audience to consider who is truly parasitic in the social dynamic."
+        },
+        {
+          "question": "What is the significance of the smell in the film?",
+          "answer": "The recurring mention of a specific 'smell' associated with the Kim family by the Parks is a crucial metaphor for class distinction. It represents the subtle, often unconscious ways that class differences are perceived and judged, becoming a source of humiliation and deep-seated resentment for the Kim family."
+        },
+        {
+          "question": "What was the secret hidden in the Park family's basement?",
+          "answer": "Beneath the Park family's modern house was a hidden, elaborate bunker constructed by the original architect. It was secretly inhabited by Geun-sae, the husband of the former housekeeper, who had been hiding there from loan sharks for years. This revealed another layer of poverty and hidden existence beneath the surface of wealth."
+        },
+        {
+          "question": "What is the meaning of the ending?",
+          "answer": "The ending is deliberately poignant and somewhat bleak. While Ki-woo imagines a future where he earns enough money to buy the Park house and free his father, the film's final moments suggest this dream is likely unattainable. It serves as a commentary on the difficulty of social mobility and the enduring nature of class barriers."
+        },
+        {
+          "question": "What is the 'Scholar's Stone' and its role?",
+          "answer": "The scholar's stone is a decorative rock given to Ki-woo as a gift, meant to bring good luck and wealth. It initially symbolizes hope for the Kim family's prosperity but becomes a heavy, blunt object used in violence later in the film. Its trajectory represents the subversion of aspirations and the brutal reality beneath material desires."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Alien",
+      "director": "Ridley Scott",
+      "actors": [
+        "Tom Skerritt",
+        "Sigourney Weaver",
+        "Veronica Cartwright",
+        "Harry Dean Stanton",
+        "John Hurt",
+        "Ian Holm",
+        "Yaphet Kotto",
+        "Bolaji Badejo",
+        "Helen Horton",
+        "Eddie Powell",
+        "Roy Scammell",
+        "David Ayling",
+        "Kevin Jenkins",
+        "Patty Denney",
+        "Carl Miller",
+        "Paul Warren",
+        "Dickey Beer",
+        "Ron Fitzgerald",
+        "Cliff Culver",
+        "Ross Marshall"
+      ],
+      "format": "movie",
+      "category": [
+        "Sci-Fi",
+        "Horror",
+        "Thriller"
+      ],
+      "duration": "117 minutes",
+      "desc": "The crew of a commercial spacecraft is awakened from cryo-sleep to investigate a mysterious distress signal on a nearby moon, encountering a deadly extraterrestrial.",
+      "story": "The commercial space tug Nostromo is on a return trip to Earth, carrying a massive cargo of mineral ore, when its seven-member crew is awakened prematurely from stasis. The ship's computer, Mother, has intercepted a mysterious distress signal originating from a desolate moon, LV-426. Following Company protocol, Captain Dallas and the crew are obligated to investigate. They land the Nostromo and a landing party explores the moon's surface, discovering a derelict alien spacecraft. Inside, they find the remains of a giant creature, the 'Space Jockey', and a chamber filled with leathery eggs. When second-in-command Kane examines an egg, a creature, a 'facehugger', leaps out and attaches itself firmly to his face, incapacitating him. Bringing Kane back to the ship against Ripley's protestations about quarantine, the crew tries to remove the facehugger, but it proves impossible without killing him. Later, the creature detaches, and Kane seems to recover. However, during dinner, a small alien creature 'chestbursts' violently from Kane's chest and escapes into the ship. The creature grows rapidly into a large, terrifying Xenomorph. The crew is hunted one by one through the ship's dark, claustrophobic corridors. Tensions rise, secrets are revealed (including the android nature and true directive of Science Officer Ash), and the remaining survivors attempt to trap and eliminate the creature. Ultimately, Warrant Officer Ellen Ripley finds herself as the sole human survivor, facing the Alien in a desperate final confrontation to escape the doomed vessel.",
+      "wall": "https://images6.alphacoders.com/136/thumb-1920-1365785.jpeg",
+      "date": "1979-05-25",
+      "imdb": 8.5,
+      "adult": true,
+      "country": "United States, United Kingdom",
+      "lang": "English",
+      "poster": "https://images.photowall.com/products/59754/alien.jpg?h=699&q=85",
+      "awards": "Won 1 Oscar (Best Visual Effects), Won Saturn Awards for Best Science Fiction Film, Best Director, and Best Supporting Actress (Veronica Cartwright), Won Hugo Award for Best Dramatic Presentation, Won BAFTA Awards for Best Sound and Best Production Design.",
+      "popular": true,
+      "fragmanID": "OzY2r2JXsDM",
+      "videosID": [
+        "xlG8ID1w1Zg",
+        "LGv89eDkpLg",
+        "Mw8WTNkMzhc",
+        "BP2TCU8mvXY",
+        "7lNhzNLtmdY"
+      ],
+      "information": [
+        "The iconic design of the Xenomorph creature, from its egg and facehugger to the chestburster and adult stages, was created by Swiss surrealist artist H.R. Giger. His unique biomechanical aesthetic, combining organic forms with industrial elements, gave the Alien a terrifying and unforgettable appearance. Giger's work on the film earned him an Academy Award for Best Visual Effects and had a lasting impact on creature design in cinema.",
+        "The famous chestburster scene, where the juvenile alien erupts from Kane's chest, is one of the most shocking and iconic moments in horror history. The visceral reaction of the cast members in the scene was largely genuine; director Ridley Scott deliberately kept the full extent of the effect a secret from most of them until filming, ensuring their surprise and horror were authentic.",
+        "The character of Ellen Ripley, brilliantly portrayed by Sigourney Weaver, was a groundbreaking role in science fiction cinema. Initially, the script allowed for the lead characters to be either male or female, and casting a woman in the traditionally male role of the final survivor and action hero was unusual at the time. Ripley's intelligence, resourcefulness, and resilience made her an enduring feminist icon and launched Weaver's career.",
+        "The enigmatic Space Jockey, the massive fossilized creature discovered in the derelict spacecraft on LV-426, added a layer of mystery to the Alien universe. Designed by H.R. Giger, this ancient, unknown alien species and their connection to the Xenomorph eggs sparked immense curiosity among viewers and became a key element later explored in the prequel films 'Prometheus' and 'Alien: Covenant'.",
+        "Ridley Scott masterfully crafted the film's oppressive and terrifying atmosphere through deliberate pacing, claustrophobic production design, and innovative use of sound and lighting. The interior of the Nostromo was designed to feel like a functional, gritty industrial vessel rather than a sleek spaceship, enhancing the sense of isolation and vulnerability as the crew is hunted in the dark, narrow corridors."
+      ],
+      "faq": [
+        {
+          "question": "What is the lifecycle of the Alien (Xenomorph)?",
+          "answer": "The Alien lifecycle begins with an egg containing a facehugger. The facehugger attacks a host, implanting an embryo. A 'chestburster' then violently erupts from the host's chest and quickly grows into the adult Xenomorph, which is a highly dangerous and adaptable creature."
+        },
+        {
+          "question": "What is the Space Jockey?",
+          "answer": "The Space Jockey is the large, elephantine alien creature found dead in the pilot's chair of the derelict spacecraft on LV-426. Its origins and purpose are a mystery in 'Alien', but it appears to be connected to the Xenomorph eggs found in the ship's cargo hold."
+        },
+        {
+          "question": "Why was Ripley the only human survivor?",
+          "answer": "Ripley survived because she was cautious, intelligent, and followed protocol (initially refusing to let Kane back on board). Her quick thinking, resourcefulness under pressure, and determination allowed her to evade the creature and ultimately escape the Nostromo when the rest of the crew were killed."
+        },
+        {
+          "question": "Was Ash an android from the beginning?",
+          "answer": "Yes, Science Officer Ash is revealed late in the film to be a Hyperdyne Systems 120-A/2 synthetic human (android). He was placed on the crew by the Weyland-Yutani Company with secret orders to ensure the Alien specimen was brought back, prioritizing the creature over the lives of the human crew."
+        },
+        {
+          "question": "What was the purpose of the cat, Jones?",
+          "answer": "Jonesy the cat serves multiple purposes: providing companionship to the crew, particularly Ripley; adding moments of tension and false scares; and highlighting Ripley's humanity and desire to protect life by ensuring his survival, emphasizing her contrasting values with the Company and the Alien."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "The Shining",
+      "director": "Stanley Kubrick",
+      "actors": [
+        "Jack Nicholson",
+        "Shelley Duvall",
+        "Danny Lloyd",
+        "Scatman Crothers",
+        "Barry Nelson",
+        "Philip Stone",
+        "Joe Turkel",
+        "Anne Jackson",
+        "Tony Burton",
+        "Lia Beldam",
+        "Billie Gibson",
+        "Barry Dennen",
+        "David Baxt",
+        "Manning Redwood",
+        "Lisa Burns",
+        "Louise Burns",
+        "Robin Pappas",
+        "Alison Coleridge",
+        "Burnell Tucker",
+        "Jana Shelden"
+      ],
+      "format": "movie",
+      "category": [
+        "Drama",
+        "Horror",
+        "Psychological"
+      ],
+      "duration": "146 minutes",
+      "desc": "A family moves into an isolated hotel for the winter, where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings.",
+      "story": "Jack Torrance, a struggling writer and recovering alcoholic, takes a job as the winter caretaker at the isolated Overlook Hotel in the Colorado Rockies. He brings his wife, Wendy, and their young son, Danny, with him. Danny possesses a psychic ability called 'the shining', which allows him to see visions of the past and future, and communicate telepathically. As the winter snow traps them in the hotel, Danny's abilities reveal the hotel's dark history and the malevolent supernatural forces within its walls. These entities, including ghosts of former guests and staff, begin to influence Jack, preying on his psychological vulnerabilities and amplifying his alcoholism and writer's block. Jack's behavior becomes increasingly erratic and menacing, turning violent towards Wendy and Danny. The isolation and the hotel's evil presence drive him to the brink of madness. Meanwhile, Danny uses his 'shining' to communicate with the hotel's chef, Dick Hallorann, who also possesses the ability. sensing the danger, Hallorann attempts to travel to the Overlook to help them. The film builds to a terrifying climax as Jack fully succumbs to madness and attempts to murder his family, leading to a harrowing chase through the hotel and its iconic hedge maze, while Wendy and Danny fight for survival against the hotel's supernatural power and Jack's homicidal rage.",
+      "wall": "https://musicart.xboxlive.com/7/ca6b5100-0000-0000-0000-000000000002/504/image.jpg",
+      "date": "1980-05-23",
+      "imdb": 8.4,
+      "adult": true,
+      "country": "United States, United Kingdom",
+      "lang": "English",
+      "poster": "https://www.originalfilmart.com/cdn/shop/files/the_shining_1980_original_film_art_5000x.webp?v=1685732868",
+      "awards": "Won Saturn Award for Best Supporting Actor (Scatman Crothers), Nominated for Saturn Award for Best Horror Film and Best Director, Won LaserDisc Award for Best Classic Film, Ranked #29 on AFI's 100 Years... 100 Thrills list.",
+      "popular": true,
+      "fragmanID": "FZQvIJxG9Xs",
+      "videosID": [
+        "WDpipB4yehk",
+        "CMbI7DmLCNI",
+        "kBVXROnbIwM",
+        "YnzYWsdHEpM",
+        "RigIpVXm2xA"
+      ],
+      "information": [
+        "Director Stanley Kubrick was known for his meticulous and demanding filmmaking process, often requiring an extraordinary number of takes for each scene. This was particularly challenging for actress Shelley Duvall, who played Wendy Torrance, and reportedly caused her significant stress throughout the long production. Kubrick's pursuit of perfection contributed to the film's unique and unsettling atmosphere.",
+        "'The Shining' was one of the earliest films to make extensive use of the Steadicam, a camera stabilizing system. Cinematographer John Alcott and Steadicam operator Garrett Brown utilized the technology to create smooth, fluid tracking shots that followed characters through the hotel's vast interiors and the exterior hedge maze. These shots enhanced the film's sense of scale, disorientation, and psychological tension.",
+        "Jack Nicholson's iconic line, 'Here's Johnny!', delivered as Jack Torrance breaks through the bathroom door with an axe, was improvised by the actor on the spot and was not in the original script. The line, referencing Johnny Carson's famous introduction on The Tonight Show, has since become one of the most famous and quoted lines in cinematic history and is indelibly linked to Nicholson's chilling performance.",
+        "The design of the Overlook Hotel itself is crucial to the film's psychological horror. Production designer Roy Walker created an interior that is intentionally grand yet unsettling, with subtle architectural inconsistencies like misplaced windows and illogical room layouts. These details contribute to a sense of disorientation and suggest that the hotel is not merely a static location but a labyrinthine entity with its own malevolent will.",
+        "Stephen King, the author of the novel upon which the film is based, has famously expressed his dissatisfaction with Kubrick's adaptation. King felt that the film deviated significantly from his intended themes, particularly regarding the portrayal of Jack Torrance's descent into madness (King saw it as a tragedy of a good man corrupted, while Kubrick's Jack seems more inherently unstable) and the ambiguity of the supernatural elements versus psychological breakdown."
+      ],
+      "faq": [
+        {
+          "question": "What is the meaning of the final photograph in the film?",
+          "answer": "The final shot shows Jack Torrance in a photograph from the Overlook Hotel's 1921 Fourth of July ball. This suggests that Jack was somehow absorbed by the hotel's supernatural presence, implying that certain souls or events are trapped within its history, potentially suggesting reincarnation or the hotel existing outside of linear time."
+        },
+        {
+          "question": "What is 'the shining' ability that Danny has?",
+          "answer": "'The shining' is a form of psychic ability that allows individuals to see visions of events that have happened or will happen, communicate telepathically, and sense the supernatural presence of places or people. Danny's 'shining' makes him particularly sensitive to the malevolent forces within the Overlook Hotel."
+        },
+        {
+          "question": "Are the ghosts and supernatural events in the hotel real?",
+          "answer": "The film maintains a degree of ambiguity, allowing for both supernatural and psychological interpretations. The hotel appears to have a genuine malevolent presence that preys on the psychological weaknesses of its inhabitants, manifesting as ghosts and visions that blur the line between reality and delusion, particularly for those susceptible like Jack and Danny."
+        },
+        {
+          "question": "Who are the twin girls Danny sees?",
+          "answer": "The twin girls are the ghosts of the daughters of Charles Grady, the previous winter caretaker of the Overlook Hotel, who went insane and murdered his family and himself years earlier. They are spectral manifestations of the hotel's violent past that appear to Danny through 'the shining'."
+        },
+        {
+          "question": "How is the movie different from Stephen King's book?",
+          "answer": "Key differences include the portrayal of Jack Torrance's character (more clearly a victim of the hotel in the book vs. more inherently unstable in the film), the depiction of Wendy (more passive in the film), the role of the hotel's supernatural presence (more ambiguous in the film), and the ending (the hotel does not burn down in the film's climax)."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Sherlock Holmes",
+      "director": "Guy Ritchie",
+      "actors": [
+          "Robert Downey Jr.",
+          "Jude Law",
+          "Rachel McAdams",
+          "Mark Strong",
+          "Eddie Marsan",
+          "Kelly Reilly",
+          "William Hope",
+          "Hans Matheson",
+          "Geraldine James",
+          "James Fox",
+          "Robert Maillet",
+          "Clive Russell"
+      ],
+      "format": "movie",
+      "category": [
+        "Action",
+        "Adventure",
+        "Mystery"
+      ],
+      "duration": "128 minutes",
+      "desc": "Renowned detective Sherlock Holmes and his partner Dr. John Watson unravel a deadly plot that threatens all of England. As they confront dark magic and deception, Holmes must rely on both his intellect and physical prowess to stop a powerful enemy.",
+      "story": "In 1890s London, detective Sherlock Holmes and his loyal partner Dr. John Watson capture Lord Blackwood, a man convicted of multiple murders. After Blackwood is hanged, strange events begin to unfold, hinting that he may have risen from the dead. Holmes and Watson are drawn into a complex conspiracy involving dark rituals, secret societies, and political manipulation. As the mystery deepens, Holmes must outwit Blackwood, whose plans threaten to destabilize the entire British Empire. With Irene Adler complicating matters, Holmes balances deduction, action, and intuition to unravel the plot. The film blends Victorian-era style with modern action and humor, showcasing Holmes as both an eccentric genius and a formidable fighter.",
+      "wall": "https://images.justwatch.com/backdrop/198765517/s640/sherlock-holmes-2009",
+      "date": "2009-12-25",
+      "imdb": 7.6,
+      "adult": false,
+      "country": "United States, United Kingdom",
+      "lang": "English",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTg0NjEwNjUxM15BMl5BanBnXkFtZTcwMzk0MjQ5Mg@@._V1_.jpg",
+      "awards": "Nominated for 2 Oscars, Won Golden Globe for Best Actor (Robert Downey Jr.), Nominated for 1 BAFTA, multiple other nominations",
+      "popular": false,
+      "fragmanID": "J7nJksXDBWc",
+      "videosID": [
+          "l6TGERgrXmA",
+          "u-z5139CW1I",
+          "6SDFxGZ5fJw",
+          "ZXyLYqWUffA",
+          "N_c0y8BcKBU"
+      ],
+      "information": [
+          "Robert Downey Jr. studied martial arts and worked with a dialect coach to perfect Sherlock Holmes' fighting style and British accent.",
+          "The fight scenes were choreographed using real martial arts techniques, including Wing Chun, which Holmes uses throughout the film.",
+          "Director Guy Ritchie aimed to portray Holmes as a more action-oriented and eccentric character compared to traditional depictions.",
+          "Much of the movie was filmed in historical locations around the UK, including Manchester and London, to reflect authentic Victorian settings.",
+          "Hans Zimmer composed the film's score using unusual instruments like the broken piano and banjo to match the quirky tone of Holmes."
+      ],
+      "faq": [
+          {
+            "question": "Who plays Sherlock Holmes in the film?", 
+            "answer": "Robert Downey Jr."
+          },
+          {
+            "question": "What is the name of Sherlock Holmes' loyal friend and partner?", 
+            "answer": "Dr. John Watson."
+          },
+          {
+            "question": "Who is the main antagonist in this film?", 
+            "answer": "Lord Blackwood."
+          },
+          {
+            "question": "What is Sherlock Holmes' main skill?", 
+            "answer": "Deductive reasoning."
+          },
+          {
+            "question": "Who is Irene Adler?", 
+            "answer": "A clever thief and Holmes' romantic interest."
+          }
+      ]
+    },
+    {
+        "id": 17,
+        "title": "Batman: The Animated Series",
+        "director": "Bruce Timm, Eric Radomski",
+        "actors": [
+            "Kevin Conroy",
+            "Mark Hamill",
+            "Efrem Zimbalist Jr.",
+            "Bob Hastings",
+            "Robert Costanzo",
+            "Arleen Sorkin",
+            "Adrienne Barbeau",
+            "John Glover",
+            "Diane Pershing",
+            "Ron Perlman",
+            "David Warner"
+        ],
+        "format": "series",
+        "category": [
+          "Animation", 
+          "Action", 
+          "Crime"
+        ],
+        "duration": "22 minutes per episode",
+        "desc": "A dark and stylish animated take on the Batman mythos, following Bruce Wayne as he defends Gotham City against a variety of villains while grappling with his own dual identity.",
+        "story": "Set in a noir-inspired Gotham City, Batman: The Animated Series follows the adventures of Bruce Wayne as the caped crusader. By day, he's a billionaire philanthropist; by night, he takes on criminals, masterminds, and personal demons. The show introduces iconic villains such as the Joker, Two-Face, Catwoman, and Mr. Freeze, offering deep character backstories and mature storytelling. The series is notable for its groundbreaking animation style, emotional depth, and Kevin Conroy's legendary voice performance as Batman. It laid the foundation for the DC Animated Universe, influencing generations of superhero media.",
+        "wall": "https://ew.com/thmb/z6k84TZgSFlq1vYnrBhdKe68hGY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/batman-the-animated-series-2000-cd36e2cd2a6a45c7893fc3a36c040b0b.jpg",
+        "date": "1992-09-05",
+        "imdb": 9.0,
+        "adult": false,
+        "country": "United States",
+        "lang": "English",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjgwZWUzMzUtYTFkNi00MzM0LWFkMWUtMDViMjMxNGIxNDUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "awards": "Won 4 Emmy Awards, including Outstanding Animated Program. Widely praised for its mature themes and art direction.",
+        "popular": false,
+        "fragmanID": "lUWttg8aA9I",
+        "videosID": [
+            "rrmUk2YUm14",
+            "osCNQs0IEpg",
+            "1URf-kiKpO4",
+            "zPoMqoyK6tw",
+            "JEyNESyrpmE"
+        ],
+        "information": [
+            "Kevin Conroy voiced Batman in this series and became widely regarded as the definitive voice of the character.",
+            "Mark Hamill, known as Luke Skywalker, voiced the Joker and earned critical acclaim for his unique and manic performance.",
+            "The series introduced the character Harley Quinn, who became so popular she was later added to the official DC Comics universe.",
+            "The animation style, known as 'Dark Deco', used black paper to create a darker, more stylized aesthetic.",
+            "Mr. Freeze's tragic backstory in the episode 'Heart of Ice' was so well-received that it became part of the official DC canon."
+        ],
+        "faq": [
+            { 
+              "question": "Who voices Batman in the series?", 
+              "answer": "Kevin Conroy." 
+            },
+            { 
+              "question": "Which character was created specifically for the show?", 
+              "answer": "Harley Quinn." 
+            },
+            { 
+              "question": "What is the Joker's signature laugh known for?", 
+              "answer": "Its chaotic and unpredictable tone, performed by Mark Hamill." 
+            },
+            { 
+              "question": "Which episode won an Emmy for Outstanding Writing?", 
+              "answer": "'Heart of Ice' (Mr. Freeze's origin story)." 
+            },
+            { 
+              "question": "What style of animation was used?", 
+              "answer": "'Dark Deco' — a blend of film noir and Art Deco aesthetics."
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "title": "The Office",
+        "director": "Randall Einhorn",
+        "actors": [
+            "Steve Carell",
+            "John Krasinski",
+            "Jenna Fischer",
+            "Rainn Wilson",
+            "B.J. Novak",
+            "Mindy Kaling",
+            "Ed Helms",
+            "Ellie Kemper",
+            "Angela Kinsey",
+            "Brian Baumgartner",
+            "Oscar Nunez",
+            "Kate Flannery"
+        ],
+        "format": "series",
+        "category": [
+          "Comedy", 
+          "Mockumentary"
+        ],
+        "duration": "22 minutes per episode",
+        "desc": "A mockumentary-style sitcom portraying the everyday lives of office employees working at Dunder Mifflin, a paper company in Scranton, Pennsylvania.",
+        "story": "The Office follows the mundane yet hilarious lives of employees at Dunder Mifflin, a fictional paper supply company. Shot in a documentary style, the series centers on Michael Scott, the well-meaning but often inappropriate regional manager. Through awkward meetings, cringe-worthy jokes, office romance, and heartwarming friendships, the show explores workplace dynamics with dry humor and charm. Jim’s pranks on Dwight, Pam’s journey of self-discovery, and Michael’s antics all contribute to making The Office a beloved comedy classic with enduring popularity.",
+        "wall": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNdPT236Fx8anll-Z_nWioisgQDwewZifD6A&s",
+        "date": "2005-03-24",
+        "imdb": 9.0,
+        "adult": false,
+        "country": "United States",
+        "lang": "English",
+        "poster": "https://images.justwatch.com/poster/301988362/s718/the-office.jpg",
+        "awards": "Won 5 Primetime Emmy Awards including Outstanding Comedy Series, nominated for dozens more.",
+        "popular": true,
+        "fragmanID": "kEiMppTHQs8",
+        "videosID": [
+            "8GxqvnQyaxs",
+            "lC5lsemxaJo",
+            "gO8N3L_aERg",
+            "0Kvw2BPKjz0",
+            "1QQBB3cwNM0"
+        ],
+        "information": [
+            "Steve Carell improvised many of Michael Scott's most iconic lines.",
+            "The show was adapted from the UK version created by Ricky Gervais and Stephen Merchant.",
+            "John Krasinski filmed real footage of Scranton, PA, for the opening credits.",
+            "Many cast members were also writers or producers, including Mindy Kaling and B.J. Novak.",
+            "The show gained immense popularity after being added to streaming platforms, becoming a cult classic."
+        ],
+        "faq": [
+            { 
+              "question": "Who plays Michael Scott?", 
+              "answer": "Steve Carell."
+            },
+            { 
+              "question": "Where is Dunder Mifflin located?", 
+              "answer": "Scranton, Pennsylvania." 
+            },
+            { 
+              "question": "Who does Jim Halpert marry?", 
+              "answer": "Pam Beesly." 
+            },
+            { 
+              "question": "Which character constantly pranks Dwight Schrute?", 
+              "answer": "Jim Halpert." 
+            },
+            { 
+              "question": "What is the show's filming style?", 
+              "answer": "Mockumentary." 
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Human Planet",
+        "director": "Tuppence Stone",
+        "actors": [
+            "John Hurt (Narrator - UK version)",
+            "Roger Munns (Underwater cameraman)",
+            "Various indigenous people featured across episodes"
+        ],
+        "format": "series",
+        "category": [
+          "Documentary"
+        ],
+        "duration": "50 minutes per episode",
+        "desc": "An awe-inspiring documentary series exploring how humans adapt to the most extreme environments on Earth, showcasing the remarkable ways people survive and thrive across diverse landscapes.",
+        "story": "Human Planet is an eight-part documentary series that explores the relationship between humans and nature across different environments such as oceans, deserts, the Arctic, jungles, and urban areas. Each episode focuses on how people have adapted to and live in some of the harshest and most beautiful habitats on the planet. From fishing with kites in China to hunting whales in the Arctic, the series presents breathtaking visuals and extraordinary stories of human ingenuity, resilience, and cultural diversity.",
+        "wall": "https://upload.wikimedia.org/wikipedia/en/e/e9/Humanplanetlogo.jpg",
+        "date": "2011-01-13",
+        "imdb": 9.0,
+        "adult": false,
+        "country": "United Kingdom",
+        "lang": "English",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDYxN2U4YjEtZmZjYS00NmJkLTg3Y2EtZjFmNmFiNmExMDMwXkEyXkFqcGc@._V1_.jpg",
+        "awards": "Nominated for 4 BAFTA TV Awards; won Royal Television Society awards for cinematography and sound.",
+        "popular": true,
+        "fragmanID": "GmfvOEjXWe4",
+        "videosID": [
+            "rGnZwiUmqfA",
+            "zHSZkuS4zIE",
+            "5uIzcViryNA",
+            "5ggws72t-ho",
+            "Bm2mlLNTRBc"
+        ],
+        "information": [
+            "The series took over 3 years to film and involved crews visiting more than 70 locations across 40 countries.",
+            "Many of the featured survival techniques had never been filmed before.",
+            "The underwater and aerial cinematography were groundbreaking at the time of release.",
+            "Human Planet was one of the first BBC documentaries to be shot in full HD.",
+            "It emphasizes human adaptation to nature rather than domination of it."
+        ],
+        "faq": [
+            { 
+              "question": "What is Human Planet about?", 
+              "answer": "It explores how humans adapt to the most extreme environments on Earth." 
+            },
+            { 
+              "question": "How many episodes are there?", 
+              "answer": "8 episodes." 
+            },
+            { 
+              "question": "Who narrates the series in the UK version?", 
+              "answer": "John Hurt." 
+            },
+            { 
+              "question": "Which environments are covered in the series?", 
+              "answer": "Oceans, deserts, Arctic, jungles, mountains, grasslands, rivers, and urban areas." 
+            },
+            { 
+              "question": "Is Human Planet a movie or series?", 
+              "answer": "It's a documentary series." 
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Death Note",
+        "director": "Tetsurō Araki",
+        "actors": [
+            "Mamoru Miyano (Light Yagami - Japanese)",
+            "Brad Swaile (Light Yagami - English)",
+            "Kappei Yamaguchi (L - Japanese)",
+            "Alessandro Juliani (L - English)",
+            "Shidou Nakamura (Ryuk - Japanese)",
+            "Brian Drummond (Ryuk - English)"
+        ],
+        "format": "series",
+        "category": [
+          "Anime", 
+          "Crime", 
+          "Supernatural", 
+          "Thriller"
+        ],
+        "duration": "23 minutes per episode",
+        "desc": "A high school student discovers a mysterious notebook that grants him the power to kill anyone by writing their name. As he tries to rid the world of evil, a deadly cat-and-mouse game with a brilliant detective begins.",
+        "story": "When Light Yagami, a brilliant high school student, finds a mysterious notebook called the Death Note, he learns that it has the power to kill anyone whose name is written in it, as long as the writer knows the face of the victim. Determined to create a utopia free of crime, Light adopts the alias 'Kira' and begins eliminating criminals. However, his actions attract the attention of a world-famous detective known only as 'L'. What follows is a psychological battle of wits between Light and L, filled with twists, moral dilemmas, and escalating stakes. As Light grows darker and more manipulative, the lines between justice and evil blur.",
+        "wall": "https://occ-0-8407-92.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABdD3TMy7f_RxNyJ5md7rWDtNWqa-PizXZogrXfeqLe4t8LTz30hQZwd2gFaLnwwwrR0-zmqlCsDe0wmeFgfMuzWEQ2rGCqy99QYz.jpg?r=e9d",
+        "date": "2006-10-03",
+        "imdb": 9.0,
+        "adult": true,
+        "country": "Japan",
+        "lang": "Japanese, English",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTgyZDhmMTEtZDFhNi00MTc4LTg3NjUtYWJlNGE5Mzk2NzMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "awards": "Won Tokyo Anime Award for Best TV Anime; multiple nominations in anime and fan awards globally.",
+        "popular": true,
+        "fragmanID": "NlJZ-YgAt-c",
+        "videosID": [
+            "_U-14LdU_ew",
+            "kAHNiJ9T2-M",
+            "taWjtvyhWOw",
+            "EID8aNDq93s",
+            "OdH7LyR03kQ"
+        ],
+        "information": [
+            "Based on the manga by Tsugumi Ohba (writer) and Takeshi Obata (illustrator).",
+            "The anime consists of 37 episodes and closely follows the original manga.",
+            "Light's voice actor Mamoru Miyano won awards for his performance.",
+            "The series explores complex themes such as justice, morality, and power.",
+            "Ryuk, the Shinigami who drops the Death Note, loves apples from the human world."
+        ],
+        "faq": [
+            { 
+              "question": "Who is the main protagonist?", 
+              "answer": "Light Yagami." 
+            },
+            { 
+              "question": "What is the Death Note?", 
+              "answer": "A supernatural notebook that kills anyone whose name is written in it." 
+            },
+            { 
+              "question": "Who is 'L'?", 
+              "answer": "A world-renowned detective trying to capture Kira." 
+            },
+            { 
+              "question": "How many episodes are there?", 
+              "answer": "37 episodes." 
+            },
+            { 
+              "question": "Is Death Note suitable for kids?", 
+              "answer": "It's more suitable for older teens and adults due to dark themes." 
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Taskmaster",
+        "director": "Andy Devonshire, Peter Orton",
+        "actors": [
+            "Greg Davies",
+            "Alex Horne",
+            "Various celebrity contestants (different each season)"
+        ],
+        "format": "series",
+        "category": [
+          "Comedy", 
+          "Game Show"
+        ],
+        "duration": "45–60 minutes per episode",
+        "desc": "Comedian Greg Davies, as the Taskmaster, sets absurd and hilarious tasks to a rotating cast of comedians, while Alex Horne assists and documents the results. Contestants compete for points in this wildly unpredictable game show.",
+        "story": "Each season of Taskmaster features five comedians who must complete a series of weird and whimsical challenges—ranging from the absurd to the nearly impossible. Hosted by the authoritarian yet comically deadpan Greg Davies, with creator Alex Horne serving as his loyal assistant, the show delivers chaotic humor and surprising creativity. Whether moving a potato without touching the floor, painting a portrait using unconventional methods, or writing poems for inanimate objects, the contestants must think outside the box and entertain in the process. The show is filmed partly in a quirky Taskmaster house and partly in a studio where performances are scored and critiqued.",
+        "wall": "https://images.immediate.co.uk/production/volatile/sites/3/2024/11/taskmaster-season-18-episode-10-08185d9.jpg?quality=90&resize=980,654",
+        "date": "2015-07-28",
+        "imdb": 9.0,
+        "adult": false,
+        "country": "United Kingdom",
+        "lang": "English",
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2RmNmM1YzAtOWJlMi00NTdiLWEwN2MtNDliNGI3NmUxMTk3XkEyXkFqcGc@._V1_.jpg",
+        "awards": "Won BAFTA TV Award for Best Comedy Entertainment Programme (2020), multiple other nominations.",
+        "popular": true,
+        "fragmanID": "K_2xCORlP88",
+        "videosID": [
+            "G3S88-Gm8CU",
+            "2wQKAF93ULo",
+            "3zvVtZok7sA",
+            "Ak8hZC_xYhs",
+            "S7qEukIESuw"
+        ],
+        "information": [
+            "Taskmaster was created by Alex Horne, who originally devised it as a live show for the Edinburgh Festival Fringe.",
+            "Each season features five different comedians competing for a golden bust of Greg Davies' head.",
+            "The tasks are filmed months in advance and kept secret from the live studio audience.",
+            "The series has inspired several international versions, including in the U.S., New Zealand, and Sweden.",
+            "Alex Horne acts as the show's writer, scorer, and official timekeeper."
+        ],
+        "faq": [
+            { 
+              "question": "Who is the Taskmaster?", 
+              "answer": "Greg Davies." 
+            },
+            { 
+              "question": "Who assists the Taskmaster?", 
+              "answer": "Alex Horne." 
+            },
+            { 
+              "question": "What kind of tasks are featured?", 
+              "answer": "Creative, humorous, and often absurd challenges." 
+            },
+            { 
+              "question": "How many contestants are there each season?", 
+              "answer": "Five." 
+            },
+            { 
+              "question": "Is Taskmaster suitable for all ages?", 
+              "answer": "Yes, though humor may appeal more to teens and adults." 
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "title": "The 100",
+        "director": "Jason Rothenberg",
+        "actors": [
+            "Eliza Taylor",
+            "Bob Morley",
+            "Marie Avgeropoulos",
+            "Lindsey Morgan",
+            "Paige Turco",
+            "Henry Ian Cusick",
+            "Richard Harmon",
+            "Devon Bostick",
+            "Isaiah Washington",
+            "Christopher Larkin",
+            "Thomas McDonell"
+        ],
+        "format": "series",
+        "category": [
+          "Drama", 
+          "Sci-Fi", 
+          "Mystery"
+        ],
+        "duration": "43 minutes per episode",
+        "desc": "A group of juvenile delinquents are sent from a space station back to Earth 97 years after a nuclear apocalypse to see if the planet is habitable again. What they discover will change the fate of humanity forever.",
+        "story": "After a nuclear apocalypse devastates Earth, humanity survives aboard a massive space station known as the Ark. Nearly a century later, with life support failing, 100 teenage prisoners are sent to the surface as an experiment to determine if Earth is habitable. As they struggle to survive in the unfamiliar and dangerous world, they uncover secrets, face moral dilemmas, and encounter other survivors—some of whom are not welcoming. The series evolves from a survival drama into a broader tale of political power, sacrifice, and the cyclical nature of human conflict.",
+        "wall": "https://yabancidizi.tv/uploads/series/cover/the-100-izle-1.jpg",
+        "date": "2014-03-19",
+        "imdb": 7.6,
+        "adult": false,
+        "country": "United States",
+        "lang": "English",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDdmZGYwOWEtN2FkZC00Y2ExLWJkY2UtNzFlODVlNzc3MGIzXkEyXkFqcGc@._V1_.jpg",
+        "awards": "Nominated for Saturn Award for Best Youth-Oriented Television Series, multiple Teen Choice Awards nominations.",
+        "popular": true,
+        "fragmanID": "ia1Fbg96vL0",
+        "videosID": [
+            "xd8rPw2V_Vg",
+            "KRQCkAZomh4",
+            "nKDq5MajwkQ",
+            "skktkjFdXdU",
+            "4GpSKPbQ9hQ"
+        ],
+        "information": [
+            "The series is based on the novel series by Kass Morgan.",
+            "Although set in a post-apocalyptic future, many scenes were filmed in the forests of British Columbia, Canada.",
+            "The show was praised for its morally complex characters and bold storytelling decisions.",
+            "The 100 ran for 7 seasons, ending in 2020.",
+            "The title 'The 100' refers to the original group of juvenile delinquents sent to Earth."
+        ],
+        "faq": [
+            { 
+              "question": "What caused the apocalypse in The 100?", 
+              "answer": "A nuclear war devastated Earth." 
+            },
+            { 
+              "question": "Who is the main protagonist?", 
+              "answer": "Clarke Griffin, portrayed by Eliza Taylor." 
+            },
+            { 
+              "question": "What is the Ark?", 
+              "answer": "A space station where humanity lived after the apocalypse." 
+            },
+            { 
+              "question": "How many seasons does The 100 have?", 
+              "answer": "Seven." 
+            },
+            { 
+              "question": "Is the show based on a book?", 
+              "answer": "Yes, by author Kass Morgan." 
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "title": "The Vampire Diaries",
+        "director": "Julie Plec, Kevin Williamson",
+        "actors": [
+            "Nina Dobrev",
+            "Paul Wesley",
+            "Ian Somerhalder",
+            "Kat Graham",
+            "Candice King",
+            "Zach Roerig",
+            "Michael Trevino",
+            "Steven R. McQueen",
+            "Matthew Davis",
+            "Joseph Morgan",
+            "Daniel Gillies"
+        ],
+        "format": "series",
+        "category": [
+          "Drama", 
+          "Fantasy", 
+          "Horror"
+        ],
+        "duration": "43 minutes per episode",
+        "desc": "A teenage girl is torn between two vampire brothers who are centuries old and share a dark past. Set in the mysterious town of Mystic Falls, secrets, supernatural beings, and romance unfold.",
+        "story": "In the town of Mystic Falls, high school student Elena Gilbert finds herself drawn to the mysterious newcomer Stefan Salvatore. Unbeknownst to her, Stefan is a centuries-old vampire trying to live peacefully. Things get complicated when his charming and dangerous brother Damon returns, leading to a love triangle. As the town reveals its deep-rooted supernatural history, Elena and her friends encounter vampires, witches, werewolves, and other dark forces. The series explores love, loss, and redemption in a world where danger lurks at every corner.",
+        "wall": "https://m.media-amazon.com/images/S/pv-target-images/fa3b16deee8027741182e86e213d18e0a15443452f56f6877d7472e1f48e5d6c._SX1080_FMjpg_.jpg",
+        "date": "2009-09-10",
+        "imdb": 7.7,
+        "adult": false,
+        "country": "United States",
+        "lang": "English",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmNjOWQzYmYtNGYxOS00MjVkLTg1MWUtMTkzMGE0MDgwNzQ5XkEyXkFqcGc@._V1_.jpg",
+        "awards": "Won 4 People's Choice Awards, 7 Teen Choice Awards, and several other nominations.",
+        "popular": true,
+        "fragmanID": "BmVmhjjkN4E",
+        "videosID": [
+            "yFezyDVgwhg",
+            "oOYLu4V7tKk",
+            "OD2f2JXoY6U",
+            "4OB9RiYVG98",
+            "hOfhAhfkWtI"
+        ],
+        "information": [
+            "The show is based on the book series by L.J. Smith.",
+            "Filming primarily took place in Covington, Georgia, which served as Mystic Falls.",
+            "The series ran for 8 seasons from 2009 to 2017.",
+            "The Vampire Diaries spawned two spin-offs: The Originals and Legacies.",
+            "Ian Somerhalder and Paul Wesley later launched a bourbon brand together named 'Brother's Bond'."
+        ],
+        "faq": [
+            { 
+              "question": "Who plays Elena Gilbert?", 
+              "answer": "Nina Dobrev." 
+            },
+            { 
+              "question": "What are the names of the vampire brothers?", 
+              "answer": "Stefan and Damon Salvatore." 
+            },
+            { 
+              "question": "Where does the series take place?", 
+              "answer": "Mystic Falls, Virginia." 
+            },
+            { 
+              "question": "How many seasons does the show have?", 
+              "answer": "Eight." 
+            },
+            { 
+              "question": "Is The Vampire Diaries connected to any other shows?", 
+              "answer": "Yes, it has two spin-offs: The Originals and Legacies." 
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "title": "Friends",
+        "director": "David Crane, Marta Kauffman",
+        "actors": [
+            "Jennifer Aniston",
+            "Courteney Cox",
+            "Lisa Kudrow",
+            "Matt LeBlanc",
+            "Matthew Perry",
+            "David Schwimmer"
+        ],
+        "format": "series",
+        "category": [
+          "Comedy", 
+          "Romance"
+        ],
+        "duration": "22 minutes per episode",
+        "desc": "Six friends living in New York City navigate life, love, and work while sharing laughs, tears, and unforgettable moments.",
+        "story": "Set in Manhattan, Friends follows a close-knit group of six friends—Rachel, Monica, Phoebe, Joey, Chandler, and Ross—as they experience the ups and downs of relationships, careers, and adulthood. With iconic scenes set in Central Perk café and Monica’s apartment, the show explores everyday life with humor and heart. Over the course of ten seasons, the group evolves through breakups, marriages, births, and career changes, all while maintaining their strong bond. The series became a cultural phenomenon and is celebrated for its witty dialogue, memorable characters, and lasting impact on pop culture.",
+        "wall": "https://m.media-amazon.com/images/S/pv-target-images/a25bd0f4bfe279ea2c22bc1c80cd7574a946617ef58d365ae88bceb790c7eedf._SX1080_FMjpg_.jpg",
+        "date": "1994-09-22",
+        "imdb": 8.9,
+        "adult": false,
+        "country": "United States",
+        "lang": "English",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTU2YmM5ZjctOGVlMC00YTczLTljM2MtYjhlNGI5YWMyZjFkXkEyXkFqcGc@._V1_.jpg",
+        "awards": "Won 6 Primetime Emmys, 1 Golden Globe, and over 70 other awards with 200+ nominations.",
+        "popular": true,
+        "fragmanID": "Zg2LCD5QOJs",
+        "videosID": [
+            "Lhpu3GdlV3w",
+            "vooZITJoPaQ",
+            "221F55VPp2M",
+            "RjpvuPAzJUw",
+            "stM2eCH-IXk"
+        ],
+        "information": [
+            "The show aired for 10 seasons from 1994 to 2004.",
+            "Each of the six main cast members eventually earned $1 million per episode.",
+            "Central Perk, the café in the show, became one of the most iconic sitcom settings.",
+            "The cast remained close friends off-screen and reunited for a special in 2021.",
+            "The theme song 'I'll Be There for You' by The Rembrandts became a hit worldwide."
+        ],
+        "faq": [
+            { 
+              "question": "Who plays Rachel Green?", 
+              "answer": "Jennifer Aniston." 
+            },
+            { 
+              "question": "Where is Friends set?", 
+              "answer": "New York City." 
+            },
+            { 
+              "question": "What is the name of the café the friends hang out in?", 
+              "answer": "Central Perk." 
+            },
+            { 
+              "question": "How many seasons does the series have?", 
+              "answer": "Ten." 
+            },
+            { 
+              "question": "Which characters got married in the final season?", 
+              "answer": "Monica and Chandler." 
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "title": "How I Met Your Mother",
+        "director": "Carter Bays, Craig Thomas",
+        "actors": [
+            "Josh Radnor",
+            "Jason Segel",
+            "Cobie Smulders",
+            "Neil Patrick Harris",
+            "Alyson Hannigan",
+            "Cristin Milioti",
+            "Bob Saget (narrator)"
+        ],
+        "format": "series",
+        "category": [
+          "Comedy", 
+          "Romance"
+        ],
+        "duration": "22 minutes per episode",
+        "desc": "Ted Mosby recounts his adventurous search for his wife and the mother of his children to his children in the year 2030, with a series of comedic flashbacks that reveal the details of his life leading up to that moment.",
+        "story": "The series follows Ted Mosby, who in the year 2030 tells his children the story of how he met their mother, recounting his adventures with his friends Marshall, Lily, Robin, and Barney. The narrative unfolds with flashbacks to Ted's life in New York City, focusing on his relationships, career, and the love he was seeking. As the series progresses, Ted's quest to find 'the one' is intertwined with the growing dynamics of his close-knit group of friends, while also delving into the ups and downs of their personal lives. With its humor, memorable catchphrases, and emotional moments, How I Met Your Mother became a beloved sitcom for a generation.",
+        "wall": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/567786020DDF0DD9ADB8590C6B365251EF728194FD4E57530E52BC44E6A810AB/scale?width=1200&aspectRatio=1.78&format=webp",
+        "date": "2005-09-19",
+        "imdb": 8.3,
+        "adult": false,
+        "country": "United States",
+        "lang": "English",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjg1MDQ5MjQ2N15BMl5BanBnXkFtZTYwNjI5NjA3._V1_.jpg",
+        "awards": "Won 10 Primetime Emmys, 1 Golden Globe, and multiple other nominations.",
+        "popular": true,
+        "fragmanID": "cjJLEYMzpjc",
+        "videosID": [
+            "IxiEeCKIX5E",
+            "sCUEc7ZGGeU",
+            "xl2a4kfO2eU",
+            "Q8XNd5AFBWg",
+            "8__08XiMEhs"
+        ],
+        "information": [
+            "The show ran for 9 seasons from 2005 to 2014.",
+            "Neil Patrick Harris, who played Barney Stinson, became iconic for his catchphrase 'Suit up!'",
+            "Josh Radnor, who played Ted Mosby, narrates the series in a voiceover as older Ted.",
+            "The show is known for its unconventional storytelling, including the use of flashbacks and foreshadowing.",
+            "The finale of the show received mixed reactions from fans, particularly regarding the identity of 'the Mother.'"
+        ],
+        "faq": [
+            { 
+              "question": "Who plays Ted Mosby?", 
+              "answer": "Josh Radnor." 
+            },
+            { 
+              "question": "What is Barney Stinson's famous catchphrase?", 
+              "answer": "Suit up!" 
+            },
+            { 
+              "question": "How many seasons are in the show?", 
+              "answer": "Nine." 
+            },
+            { 
+              "question": "What is the name of Ted's wife and the mother of his children?", 
+              "answer": "Tracy McConnell." 
+            },
+            { 
+              "question": "Who narrates the show?", 
+              "answer": "Bob Saget (as older Ted)." 
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "title": "Succession",
+        "director": "Jesse Armstrong",
+        "actors": [
+            "Brian Cox",
+            "Jeremy Strong",
+            "Sarah Snook",
+            "Kieran Culkin",
+            "Matthew Macfadyen",
+            "Nicholas Braun",
+            "Hiam Abbass",
+            "Alan Ruck",
+            "Peter Friedman"
+        ],
+        "format": "series",
+        "category": [
+          "Drama"
+        ],
+        "duration": "60 minutes per episode",
+        "desc": "The Roy family is one of the wealthiest and most powerful families in the world, but their hold on their media empire is threatened by their own infighting, as they battle for control of the business and their legacy.",
+        "story": "Succession follows the Roy family, owners of a global media conglomerate, as they deal with power struggles, betrayals, and personal conflicts while attempting to maintain control of the company. At the center of the family is Logan Roy, the ruthless patriarch, and his children, each vying for control of the family empire. The series explores themes of power, greed, and familial loyalty, as the Roys navigate the complexities of their wealth and the cutthroat world of business. As the drama unfolds, secrets are exposed, relationships are tested, and the future of the company is constantly up for grabs.",
+        "wall": "https://static.hbo.com/2023-03/succession-s4-ka-1920_0.jpg",
+        "date": "2018-08-01",
+        "imdb": 8.8,
+        "adult": false,
+        "country": "United States",
+        "lang": "English",
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkMhvRLv7kYvanuOd5oMYfkEmC5hVwq1Ataw&s",
+        "awards": "Won 7 Primetime Emmy Awards, Nominated for 25 Emmys, Multiple Golden Globe nominations.",
+        "popular": true,
+        "fragmanID": "OzYxJV_rmE8",
+        "videosID": [
+            "KH55hmX0-Uo",
+            "90Y92lQOmEI",
+            "Cy9KkuPmQ_s",
+            "U7P4zKOgu8U",
+            "S4izWsBAjl4"
+        ],
+        "information": [
+            "The show was created by Jesse Armstrong, known for his work on 'Peep Show' and 'The Thick of It.'",
+            "Brian Cox, who plays Logan Roy, is known for his extensive career in both film and television.",
+            "The show's writing is praised for its sharp dialogue and complex characters, with many actors receiving critical acclaim for their performances.",
+            "Succession's themes of power and family drama are often compared to Shakespearean tragedies.",
+            "The series has been lauded for its realistic portrayal of the business world, particularly the media and tech industries."
+        ],
+        "faq": [
+            { 
+              "question": "Who plays Logan Roy?", 
+              "answer": "Brian Cox." 
+            },
+            { 
+              "question": "What is the main focus of the series?", 
+              "answer": "The power struggles and conflicts within the Roy family over control of their media empire." 
+            },
+            { 
+              "question": "How many seasons of Succession are there?", 
+              "answer": "Currently, there are 3 seasons, with a 4th season in production." 
+            },
+            { 
+              "question": "What type of company does the Roy family run?", 
+              "answer": "A global media conglomerate." 
+            },
+            { 
+              "question": "Who is the youngest Roy child?", 
+              "answer": "Roman Roy, played by Kieran Culkin." 
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "title": "Black Mirror",
+        "director": "Charlie Brooker",
+        "actors": [
+            "Daniel Kaluuya",
+            "Jon Hamm",
+            "Michaela Coel",
+            "Andrew Scott",
+            "Jessica Brown Findlay",
+            "Hayley Atwell",
+            "Jesse Plemons",
+            "Alice Eve",
+            "Domhnall Gleeson",
+            "Rory Kinnear"
+        ],
+        "format": "series",
+        "category": [
+          "Drama", 
+          "Sci-Fi", 
+          "Thriller"
+        ],
+        "duration": "60 minutes per episode",
+        "desc": "A series of standalone dramas – sharp, suspenseful, satirical tales that explore techno-paranoia, the dark side of technology, and the potential consequences of modern life.",
+        "story": "Black Mirror is an anthology series that presents a different dystopian or speculative scenario in each episode. Set in a world where technology and society intersect in uncomfortable and often terrifying ways, the series reflects on how our increasing reliance on tech could lead to dangerous or extreme outcomes. Each episode explores themes such as privacy, artificial intelligence, virtual reality, social media, and the consequences of innovation, often ending in dark and unsettling twists. The show asks viewers to consider the cost of progress and its impact on human nature and society.",
+        "wall": "https://m.media-amazon.com/images/M/MV5BYmJkYTVkZTItYWUyZS00ZTY3LThhNTEtNzk4Y2EwYTk3OGY4XkEyXkFqcGdeQWpnYW1i._V1_QL75_UX500_CR0,0,500,281_.jpg",
+        "date": "2011-12-04",
+        "imdb": 8.8,
+        "adult": true,
+        "country": "United Kingdom",
+        "lang": "English",
+        "poster": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "awards": "Won 6 Primetime Emmy Awards, Nominated for 8 Emmys, Nominated for multiple BAFTAs.",
+        "popular": true,
+        "fragmanID": "1iqra1ojEvM",
+        "videosID": [
+            "YrpK90bHO2U",
+            "O1Txc5gq5QM",
+            "jcwdLwna2cY",
+            "STUvXFr64qM",
+            "5TzsTq9BKHU"
+        ],
+        "information": [
+            "Charlie Brooker, the creator of Black Mirror, often draws inspiration from current technological trends and social issues.",
+            "The series is known for its dark, satirical tone and its ability to predict potential futures shaped by technology.",
+            "Each episode is self-contained, with no recurring characters or plotlines, allowing for complete creative freedom in exploring new themes and concepts.",
+            "Black Mirror has been praised for its high production values and thought-provoking narratives, which encourage viewers to reflect on the role of technology in their own lives.",
+            "Some of the most popular episodes include 'San Junipero,' 'USS Callister,' and 'Nosedive,' each showcasing different aspects of human nature in the face of futuristic technology."
+        ],
+        "faq": [
+            { 
+              "question": "Is Black Mirror connected between episodes?", 
+              "answer": "No, each episode is a standalone story with no continuity between them." 
+            },
+            { 
+              "question": "Who created Black Mirror?", 
+              "answer": "Charlie Brooker." 
+            },
+            { 
+              "question": "What is the most famous episode of Black Mirror?", 
+              "answer": "'San Junipero' is one of the most popular and critically acclaimed episodes." 
+            },
+            { 
+              "question": "Where is Black Mirror set?", 
+              "answer": "Black Mirror's settings vary across episodes, exploring different futuristic worlds and dystopian societies." 
+            },
+            { 
+              "question": "Is Black Mirror appropriate for all audiences?", 
+              "answer": "No, Black Mirror contains mature content and is rated for adults due to its themes and sometimes disturbing imagery." 
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Peaky Blinders",
+        "director": "Steven Knight",
+        "actors": [
+            "Cillian Murphy",
+            "Paul Anderson",
+            "Helen McCrory",
+            "Tommy Flanagan",
+            "Anya Taylor-Joy",
+            "Sam Neill",
+            "Nikita Kuzmin",
+            "Joe Cole",
+            "Sophie Rundle",
+            "Charlotte Riley",
+            "Adrien Brody"
+        ],
+        "format": "series",
+        "category": [
+          "Crime", 
+          "Drama"
+        ],
+        "duration": "60 minutes per episode",
+        "desc": "A British historical crime drama set in the aftermath of World War I, following the Shelby crime family as they rise to power in Birmingham, England.",
+        "story": "Peaky Blinders follows the Shelby family, led by the ambitious and calculating Tommy Shelby, as they expand their criminal empire in post-World War I Birmingham. The Shelbys, known for sewing razor blades into the peaks of their flat caps, engage in illicit activities such as betting, smuggling, and later, arms dealing. The series portrays their rise to power while dealing with various enemies, both external and internal, from the police to rival gangs and politicians. Set against the backdrop of a changing society and the lingering effects of the Great War, Peaky Blinders explores themes of loyalty, power, and betrayal, all while crafting a dark, stylish narrative.",
+        "wall": "https://m.media-amazon.com/images/M/MV5BMThlOWE3MWEtZjM4Ny00M2FiLTkyMmYtZGY3ZTcyMzM5YmNlXkEyXkFqcGdeQWpnYW1i._V1_.jpg",
+        "date": "2013-09-12",
+        "imdb": 8.8,
+        "adult": true,
+        "country": "United Kingdom",
+        "lang": "English",
+        "poster": "https://m.media-amazon.com/images/S/pv-target-images/f7ffc4ffa21f3ae373bacf9502771bf724f2503b177e415d8aacc56d6ca05970.jpg",
+        "awards": "Nominated for 12 BAFTA TV Awards, Won 3 BAFTA TV Awards, Multiple nominations for Golden Globe and Primetime Emmy.",
+        "popular": true,
+        "fragmanID": "Ruyl8_PT_y8",
+        "videosID": [
+            "I3dSg-vwRpU",
+            "M-7v9bP10-U",
+            "Rne3kotFZi0",
+            "D5tgcz-OatU",
+            "CQMy5Fzyhow"
+        ],
+        "information": [
+            "Cillian Murphy, who plays Tommy Shelby, became iconic for his portrayal of the character, often utilizing his piercing blue eyes and calculating mannerisms.",
+            "The title of the show comes from the Peaky Blinders gang, which was named for sewing razor blades into the peaks of their caps.",
+            "Peaky Blinders incorporates real historical events and figures, blending fact and fiction to depict post-WWI Birmingham.",
+            "The series is known for its striking visual style, including its use of period-accurate costumes and a contemporary soundtrack featuring artists like Nick Cave and the Bad Seeds.",
+            "The show has received critical acclaim for its strong performances, particularly Cillian Murphy's portrayal of Tommy Shelby, and its complex character development."
+        ],
+        "faq": [
+            { 
+              "question": "Who is the leader of the Peaky Blinders?", 
+              "answer": "Tommy Shelby, played by Cillian Murphy." 
+            },
+            { 
+              "question": "What does 'Peaky Blinders' mean?", 
+              "answer": "It refers to the gang's practice of sewing razor blades into the peaks of their flat caps." 
+            },
+            { 
+              "question": "Where is Peaky Blinders set?", 
+              "answer": "The show is set in Birmingham, England, during the early 20th century." 
+            },
+            { 
+              "question": "How many seasons of Peaky Blinders are there?", 
+              "answer": "As of now, there are six seasons of Peaky Blinders." 
+            },
+            { 
+              "question": "What is Tommy Shelby's main goal in the series?", 
+              "answer": "Tommy Shelby's main goal is to expand the Shelby family's criminal empire and protect it from rivals and law enforcement." 
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "title": "Rome",
+        "director": "Michael J. Bassett",
+        "actors": [
+            "Kevin McKidd",
+            "Ray Stevenson",
+            "Ciarán Hinds",
+            "Polly Walker",
+            "James Purefoy",
+            "Lindsay Duncan",
+            "Maximilian Dirr",
+            "David Bamber",
+            "Tommy Flanagan",
+            "Indira Varma"
+        ],
+        "format": "series",
+        "category": [
+          "Drama", 
+          "History"
+        ],
+        "duration": "60 minutes per episode",
+        "desc": "Set in the final days of the Roman Republic, 'Rome' depicts the complex world of ancient Rome, focusing on the lives of two soldiers, Lucius Vorenus and Titus Pullo, against the backdrop of political upheaval and power struggles.",
+        "story": "Rome explores the violent and turbulent period of the Roman Republic’s collapse, covering key historical events such as the rise of Julius Caesar, his assassination, and the subsequent rise of Augustus. The series focuses on two common soldiers, Lucius Vorenus and Titus Pullo, whose personal stories are intertwined with the fate of Rome itself. As they navigate love, betrayal, and ambition, the political intrigue of ancient Rome unfolds around them. The show highlights the struggles of both the elite and the common people, showing how loyalty, power, and family shape the destiny of an empire.",
+        "wall": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMGFTKQyq-NNgRXU4-N0hs95dsCYcHumQwnw&s",
+        "date": "2005-08-28",
+        "imdb": 8.7,
+        "adult": true,
+        "country": "United States, United Kingdom",
+        "lang": "English",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGQ0M2YxMGEtMDQ2MC00NGEwLTliMTQtODVkYWZkNDFkM2Y3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "awards": "Nominated for 17 Primetime Emmy Awards, Won 5, including Outstanding Costumes for a Series.",
+        "popular": true,
+        "fragmanID": "VWSVSPaszJk",
+        "videosID": [
+            "AoGoi7jvr84",
+            "J7MYlRzLqD0",
+            "fxm7KASgvJ0",
+            "s4CaMJ-mO9w",
+            "JCc67pn98Q8"
+        ],
+        "information": [
+            "Rome was praised for its accurate depiction of ancient Rome, including detailed set designs and historical accuracy in costumes.",
+            "The series uses a mixture of fictional characters and historical figures to explore the political intrigue of the time.",
+            "The show was particularly well-received for its strong performances, especially from Kevin McKidd and Ray Stevenson, who played Lucius Vorenus and Titus Pullo.",
+            "Rome was one of HBO’s first big-budget historical drama series, and it was known for its gritty portrayal of Roman life.",
+            "Although it only lasted two seasons, Rome had a lasting impact on the genre of historical dramas and is still beloved by fans."
+        ],
+        "faq": [
+            { 
+              "question": "Who are the main characters in Rome?", 
+              "answer": "Lucius Vorenus and Titus Pullo." 
+            },
+            { 
+              "question": "What historical events are depicted in Rome?", 
+              "answer": "The rise of Julius Caesar, his assassination, and the rise of Augustus." 
+            },
+            { 
+              "question": "Where was Rome filmed?", 
+              "answer": "The series was filmed in Italy, primarily at the Cinecittà Studios in Rome." 
+            },
+            { 
+              "question": "Why was Rome cancelled?", 
+              "answer": "The series was cancelled after two seasons due to high production costs and declining viewership." 
+            },
+            { 
+              "question": "Is Rome based on real events?", 
+              "answer": "Yes, the series is based on real historical events, though it also includes fictional elements to enhance the narrative." 
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "title": "Dark",
+        "director": "Baran bo Odar",
+        "actors": [
+            "Louis Hofmann",
+            "Maja Schöne",
+            "Lisa Vicari",
+            "Andreas Pietschmann",
+            "Karoline Eichhorn",
+            "Oliver Masucci",
+            "Jördis Triebel",
+            "Mark Waschke",
+            "Stephan Kampwirth",
+            "Daan Lennard Liebrenz"
+        ],
+        "format": "series",
+        "category": [
+          "Sci-Fi", 
+          "Thriller", 
+          "Mystery"
+        ],
+        "duration": "52 minutes per episode",
+        "desc": "When two children go missing in a small German town, secrets from four interconnected families begin to unravel, exposing a time travel conspiracy that spans several generations.",
+        "story": "Dark begins with the disappearance of a boy in the German town of Winden, but quickly evolves into a much deeper mystery involving time travel, secret societies, and the cyclical nature of time. As different timelines and generations collide, families discover shocking truths about their ancestry, identity, and the inescapable destiny that binds them. The story intricately weaves between 1888, 1921, 1953, 1986, 2019, and beyond, exploring themes of determinism, free will, and the human desire to control time. With a complex structure and philosophical depth, Dark challenges viewers to piece together the puzzle.",
+        "wall": "https://www.irosf.com/wp-content/uploads/2020/12/dark-1.jpg",
+        "date": "2017-12-01",
+        "imdb": 8.7,
+        "adult": true,
+        "country": "Germany",
+        "lang": "German",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWJjMGViY2UtNTAzNS00ZGFjLWFkNTMtMDBiMDMyZTM1NTY3XkEyXkFqcGc@._V1_.jpg",
+        "awards": "Won Grimme-Preis, Nominated for International Emmy Awards, and received critical acclaim for its writing and atmosphere.",
+        "popular": true,
+        "fragmanID": "ESEUoa-mz2c",
+        "videosID": [
+            "7fx3Lm85uDg",
+            "qW5j6ztxiGg",
+            "WBKa20L2gAE",
+            "S1Ypk4xnnLk",
+            "7GBLJi-vUHI"
+        ],
+        "information": [
+            "Dark is Netflix's first German-language original series.",
+            "The show uses real scientific and philosophical concepts related to time, including wormholes and determinism.",
+            "Each season was carefully mapped out by the creators before filming began to ensure continuity across timelines.",
+            "Many scenes were filmed in and around Berlin, Germany.",
+            "The show's complex timeline chart has become iconic among fans, with many using diagrams to track character arcs."
+        ],
+        "faq": [
+            { 
+              "question": "What is the central theme of Dark?", 
+              "answer": "Time travel and its impact on family, identity, and destiny." 
+            },
+            { 
+              "question": "Is Dark a German-language series?", 
+              "answer": "Yes, it is primarily in German with subtitles or dubs available in other languages." 
+            },
+            { 
+              "question": "How many seasons does Dark have?", 
+              "answer": "Three seasons." 
+            },
+            { 
+              "question": "Do you need to watch Dark in order?", 
+              "answer": "Yes, due to the complex storyline and multiple timelines." 
+            },
+            { 
+              "question": "What makes Dark unique?", 
+              "answer": "Its intricate narrative structure, philosophical themes, and emotional depth." 
+            }
+        ]
+    }
+  ]

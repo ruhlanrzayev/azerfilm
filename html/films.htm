@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="description" content="Watch trailers, rate movies, and read reviews" />
+        <meta name="keywords" content="imdb, film, series, azerfilm" />
+        <meta name="author" content="@ruhlanrzayev and @tunarjamalov" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>AzerFilm - Watch trailers, rate movies, and read reviews</title>
+
+        <!-- FavIcon -->
+        <link rel="shortcut icon" href="../assets/logo.png" type="image/x-icon" />
+
+        <!-- Custom CSS (Tailwind) -->
+        <link rel="stylesheet" href="../css/output.css" />
+
+        <!-- Font Awesome CDN -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+            integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+            crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+        <!-- Swiper CSS -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
+    </head>
+<body class="bg-gray-900 flex items-center justify-center min-h-screen">
+    
+    <!-- Film / Series Detail Container -->
+    <div class="details-container relative flex items-center justify-center mx-[20px] w-full lg:w-[964px] h-[600px]" id="detailsContainer">
+        <div class="container">
+            <!-- Image Container -->
+             <div class="image relative h-[300px] rounded-t-4xl" style="background: url('https://ew.com/thmb/z6k84TZgSFlq1vYnrBhdKe68hGY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/batman-the-animated-series-2000-cd36e2cd2a6a45c7893fc3a36c040b0b.jpg') center/cover">
+                <i class="fa-solid fa-x absolute  text-amber-50 text-2xl cursor-pointer top-[25px] right-[25px]"></i>
+             </div>
+            <!-- Details Container -->
+            <div class="details bg-[#3a3a3a] text-center h-[300px] rounded-b-4xl">
+                <h1 class="text-amber-50 font-extrabold text-lg sm:text-3xl p-2 sm:p-3 lg:p-5">Batman : The Animated Series</h1>
+                <p class="text-amber-50 font-bold text-sm sm:text-xl p-2 sm:p-3 lg:p-5">1992 ∙ Series ∙ Animation ∙ Action ∙ Crime</p>
+                <p class="text-amber-50 font-bold text-sm sm:text-xp p-2 sm:p-3 lg:p-5">A dark and stylish animated take on the Batman mythos, following Bruce Wayne as he defends Gotham City against a variety of villains while grappling with his own dual identity.</p>
+                <button class="text-amber-50 bg-[#ffb452] my-1 px-2 rounded-full cursor-pointer sm:px-6 sm:py-3 sm:my-3 transition-all duration-150 ease-in md:hover:bg-orange-400">Get Start Watch ></button>
+            </div>
+        </div>
+    </div>
+
+    <!-- jQuery Libraries -->
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+    <!-- Sweet Alert -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+    <!-- Swiper JS -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+    <!-- Initialize Swiper -->  
+    <script>
+        var swiper = new Swiper(".mySwiper", {
+        slidesPerView: "auto",
+        spaceBetween: 30,
+        freeMode: false,
+        watchOverflow: true,
+        pagination: {
+            el: ".swiper-pagination",
+            clickable: true,
+        },
+        });
+    </script>
+
+    <!-- Custom JS -->
+    <script src="../js/main.js"></script>
+
+    <!-- jQuery -->
+    <script src="../jquery/script.js"></script>
+    <script defer src="../js/script.js"></script>
+</body>
+</html>

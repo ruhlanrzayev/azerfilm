@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="description" content="Watch trailers, rate movies, and read reviews" />
+        <meta name="keywords" content="imdb, film, series, azerfilm" />
+        <meta name="author" content="@ruhlanrzayev and @tunarjamalov" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>AzerFilm - Watch trailers, rate movies, and read reviews</title>
+
+        <!-- FavIcon -->
+        <link rel="shortcut icon" href="assets/logo.png" type="image/x-icon" />
+
+        <!-- Custom CSS (Tailwind) -->
+        <link rel="stylesheet" href="css/output.css" />
+
+        <!-- Font Awesome CDN -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+            integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+            crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+        <!-- Swiper CSS -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
+        <!-- Custom Style -->
+        <style>
+            .swiper {
+                width: 100%;
+                height: 400px;
+            }
+
+            .swiper-slide {
+                max-width: 250px;
+                text-align: center;
+                font-size: 18px;
+                background: #fff;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+        </style>
+
+    </head> 
+
+    <body class="min-h-screen w-full bg-[#0f0f0f]">
+        
+        <!-- Top Container -->
+        <div class="top-container flex items-center justify-between flex-col p-5 md:px-[60px] md:py-[30px]" id="topContainer">
+            <!-- PC -->
+            <div class="pc-options flex items-center justify-between w-full">
+                <!-- Left Content -->
+                <div class="left-content" id="leftContent">
+                    <img src="assets/indexLogo.png" alt="website logo" class="w-[125px] md:w-[200px] cursor-pointer transition-transform duration-200 hover:scale-105" onclick="window.location.href='index.htm'" />
+                </div>
+                <!-- Right Content -->
+                <div class="right-content" id="rightContent">
+                    <!-- Mobile Bars Icon -->
+                    <div class="bars-icons flex items-center justify-center flex-row gap-5 md:hidden">
+                        <select name="langChanger" id="langChangeMobile" class="bg-amber-50 border border-[#3a3a3a] py-3 px-4 my-4 rounded-full m-auto focus:outline-none focus:ring-2 focus:ring-[#ffb452]">
+                            <option value="en">EN</option>
+                            <option value="tr">TR</option>
+                        </select>
+                       
+                        <div class="flex">
+                            <i class="fa-solid fa-bars text-[30px] text-amber-50 cursor-pointer hover:text-orange-300 transition-colors" id="barsIcon"></i>
+                        </div>
+                    </div>
+                    <!-- Pc Options -->
+                    <div class="pc-options hidden md:flex items-center md:gap-4 lg:gap-6">
+                        <!-- Language Change Dropdown -->
+                        <select name="langChanger" id="langChangePC" class="bg-amber-50 border border-[#3a3a3a] py-3 px-6 rounded-3xl cursor-pointer focus:outline-none focus:ring-2 focus:ring-[#ffb452] transition-all text-sm">
+                            <option value="en">EN</option>
+                            <option value="tr">TR</option>
+                        </select>
+                        <div id="google_translate_element" style="display:none;"></div>
+                        
+                        <!-- Sign In Button (If isn't sign in) -->
+                        <button id="signInButton" class="bg-[#ffb452] text-amber-50 text-sm font-bold py-3 px-6 cursor-pointer transition-all duration-200 hover:bg-orange-400 hover:rounded-4xl hover:shadow-lg hover:shadow-[#ffb452]/20 focus:outline-none focus:ring-2 focus:ring-orange-500 focus:ring-offset-2 focus:ring-offset-[#0f0f0f]" onclick="window.location.href = '../html/login.htm'">
+                            <i class="fa-solid fa-right-to-bracket"></i> Sign In
+                        </button>
+                        
+                        <!-- Profile Dropdown (If sign in) -->
+                        <div id="profileDropdown" class="hidden items-center gap-2 relative">
+                            <div class="flex items-center gap-2 cursor-pointer group" id="profileButton">
+                                <div class="relative">
+                                    <img src="assets/profilephoto.jpg" alt="Profile" 
+                                        class="w-[50px] h-[50px] rounded-full object-cover border border-[#3a3a3a] group-hover:border-[#ffb452] transition-all">
+                                </div>
+                                <span class="text-amber-50 font-medium text-sm" id="usernameDisplay"></span>
+                                <i class="fas fa-caret-down text-amber-50 text-xs opacity-70 group-hover:opacity-100 transition-all transform group-hover:rotate-180"></i>
+                            </div>
+                            <div class="absolute right-0 top-full mt-2 w-48 bg-[#1a1a1a] rounded-md shadow-xl hidden z-50 overflow-hidden border border-[#2a2a2a] py-1" id="dropdownMenu">
+                                <div class="divide-y divide-[#2a2a2a]">
+                                    <a href="#" class="flex items-center px-4 py-2.5 text-sm text-amber-50 hover:bg-[#272727] transition-colors">
+                                        <i class="fas fa-cog mr-3 text-[#ffb452] w-4 text-center"></i>
+                                        Settings
+                                    </a>
+                                    <a href="#" class="flex items-center px-4 py-2.5 text-sm text-amber-50 hover:bg-[#272727] transition-colors">
+                                        <i class="fa-solid fa-film mr-3 text-[#ffb452] w-4 text-center"></i>
+                                        Your Watchlist
+                                    </a>
+                                    <a href="#" class="flex items-center px-4 py-2.5 text-sm text-amber-50 hover:bg-[#272727] transition-colors">
+                                        <i class="fa-solid fa-comment mr-3 text-[#ffb452] w-4 text-center"></i>
+                                        Your Reviews
+                                    </a>
+                                    <a href="#" class="flex items-center px-4 py-2.5 text-sm text-amber-50 hover:bg-[#272727] transition-colors">
+                                        <i class="fa-solid fa-star mr-3 text-[#ffb452] w-4 text-center"></i>
+                                        Your Ratings
+                                    </a>
+                                    <a href="#" id="logoutButton" class="flex items-center px-4 py-2.5 text-sm text-amber-50 hover:bg-[#272727] transition-colors">
+                                        <i class="fas fa-sign-out-alt mr-3 text-[#ffb452] w-4 text-center"></i>
+                                        Sign Out
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Mobile -->
+            <div class="mobile-options hidden align-items justify-center flex-col gap-5 bg-[#1a1a1a] w-full px-[20px] py-[40px] my-3 rounded-lg border border-[#2a2a2a]" id="mobileOptions">
+                
+                <!-- Mobile Public -->
+                <div class="mobile-public flex items-center justify-center flex-col">
+
+                    <!-- Sign In Button (Mobile) -->
+                    <button id="signInButtonMobile" class="bg-[#ffb452] text-amber-50 font-medium py-3 px-4 rounded-lg w-full my-2 hover:bg-orange-400 transition-colors focus:outline-none focus:ring-2 focus:ring-orange-500 focus:ring-offset-2 focus:ring-offset-[#1a1a1a]" onclick="window.location.href = '../html/login.htm'">
+                        <i class="fas fa-sign-out-alt mr-1.5"></i>
+                        <span>Sign In</span>
+                    </button>
+                </div>
+                
+                <!-- Profile Info  -->
+                <div id="profileInfoMobile" class="hidden w-full text-white flex justify-center flex-col items-center gap-4 py-4">
+                    <button id="logoutButtonMobile" class="bg-[#ffb452] font-medium py-3 px-4 rounded-lg w-full my-2 hover:bg-orange-400 transition-colors focus:outline-none focus:ring-2 focus:ring-orange-500 focus:ring-offset-2 focus:ring-offset-[#1a1a1a]">
+                        <i class="fas fa-sign-out-alt mr-1.5"></i>
+                        <span>Sign Out</span>
+                    </button>
+                    <div class="relative flex items-center justify-center flex-col my-2">
+                        <img src="assets/profilephoto.jpg" alt="Profile" class="w-[75px] h-[75px] rounded-full object-cover mb-5">
+                        <div class="font-medium text-base text-amber-50" id="usernameDisplayMobile"></div>
+                    </div>
+                    <div class="flex-1">
+                        <div class="flex justify-center items-center flex-col gap-2 mt-2">
+                            <a href="#" class="flex items-center text-lg text-gray-300 hover:text-[#ffb452] transition-colors">
+                                <i class="fas fa-cog mr-1.5"></i>
+                                <span>Settings</span>
+                            </a>
+                            <a href="#" class="flex items-center text-lg text-gray-300 hover:text-[#ffb452] transition-colors">
+                                <i class="fa-solid fa-film mr-1.5"></i>
+                                <span>Your Watchlist</span>
+                            </a>
+                            <a href="#" class="flex items-center text-lg text-gray-300 hover:text-[#ffb452] transition-colors">
+                                <i class="fa-solid fa-comment mr-1.5"></i>
+                                <span>Your Reviews</span>
+                            </a>
+                            <a href="#" class="flex items-center text-lg text-gray-300 hover:text-[#ffb452] transition-colors">
+                                <i class="fa-solid fa-star mr-1.5"></i>
+                                <span>Your Ratings</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slider Container -->
+        <div class="slider-container relative m-5 h-[400px] md:h-[500px] md:mx-[60px] lg:h-[600px] rounded-xl overflow-hidden" id="sliderContainer" style="background-image: url('assets/indexWallpaper.jpg'); background-size: cover; background-position: center;">
+            <!-- Black  -->
+            <div class="absolute inset-0 bg-[rgba(0,0,0,0.75)] rounded-xl"></div>
+            <!-- Items -->
+            <div class="relative z-10 flex items-center justify-center flex-col h-full gap-5">
+                <h1 class="text-amber-50 text-center text-[20px] font-bold md:text-[36px] md:w-[450px] lg:text-[48px] lg:w-[600px]">Watch trailers, rate movies and read reviews!</h1>
+                <p class="text-amber-50 text-center text-[14px] md:text-[16px] lg:text-[24px]">Are you ready for an adventure? Then log into your account and start the journey!</p>
+                <button class="text-white bg-[#ffb452] px-6 py-2 rounded-3xl transition-all duration-150 ease-in md:hover:bg-orange-400 md:cursor-pointer lg:px-[50px] lg:py-[12px] lg:rounded-[60px] lg:text-[24px]" onclick="getCheck()">Get Started ></button>
+            </div>
+        </div>
+
+        <!-- Popular Films Container -->
+        <div class="popular-container m-5 md:mx-[60px]" id="popularFilmsContainer">
+            <h1 class="md:my-[80px] text-amber-50 text-[24px] md:text-[36px] font-extrabold">Most Popular Films</h1>
+
+            <!-- Loading -->
+            <div id="filmsLoading" class="text-center text-white text-lg py-5">Loading popular films...</div>
+
+            <!-- Swiper -->
+            <div class="swiper mySwiper m-5 md:mx-[60px] hidden" id="filmSwiper">
+                <div class="swiper-wrapper" id="filmWrapper"></div>
+
+                <!-- Navigation Buttons -->
+                <div class="swiper-button-prev !text-blue-600 !w-20 !h-20 !left-0 hover:scale-110 transition duration-200"></div>
+                <div class="swiper-button-next !text-blue-600 !w-20 !h-20 !right-0 hover:scale-110 transition duration-200"></div>
+            </div>
+        </div>
+
+        <!-- Popular Series Container -->
+        <div class="popular-container m-5 md:mx-[60px]" id="popularSeriesContainer">
+            <h1 class="md:my-[80px] text-amber-50 text-[24px] md:text-[36px] font-extrabold">Most Popular Series</h1>
+
+            <!-- Loading -->
+            <div id="seriesLoading" class="text-center text-white text-lg py-5">Loading popular series...</div>
+
+            <!-- Swiper -->
+            <div class="swiper mySwiper m-5 md:mx-[60px] hidden" id="seriesSwiper">
+                <div class="swiper-wrapper" id="seriesWrapper"></div>
+
+                <!-- Navigation Buttons -->
+                <div class="swiper-button-prev !text-blue-600 !w-20 !h-20 !left-0 hover:scale-110 transition duration-200"></div>
+                <div class="swiper-button-next !text-blue-600 !w-20 !h-20 !right-0 hover:scale-110 transition duration-200"></div>
+            </div>
+        </div>
+
+        <!-- Overlay and Detail Container -->
+        <div id="overlay" class="hidden fixed inset-0 bg-[#000000bb] bg-opacity-50 z-40" id="overlay"></div>
+
+        <div id="detailsContainerWrapper" class="hidden fixed inset-0 z-50 flex items-center justify-center">
+            <div id="detailsContainer" class="details-container relative flex flex-col items-center justify-center bg-[#3a3a3a] rounded-4xl overflow-hidden w-[100%] max-w-[964px] h-[500px] mx-auto">
+                <!-- Top Image Container -->
+                <div id="detailsImage" class="relative w-full h-[300px] bg-cover bg-center rounded-t-4xl">
+                    <i id="detailsClose" class="fa-solid fa-x absolute top-[25px] right-[25px] text-amber-50 text-2xl cursor-pointer"></i>
+                </div>
+
+                <!-- Alt Details Container -->
+                <div class="text-center text-amber-50 p-4 sm:p-6">
+                    <h1 id="detailsTitle" class="font-extrabold text-lg sm:text-3xl mb-2"></h1>
+                    <p id="detailsMeta" class="font-bold text-sm sm:text-xl mb-2"></p>
+                    <p id="detailsDesc" class="font-medium text-sm sm:text-base mb-4"></p>
+                    <button class="text-white bg-[#ffb452] px-6 py-2 rounded-full transition-all duration-150 ease-in hover:bg-orange-400 cursor-pointer" onclick="getStartedWatch()">Get Start Watch ></button>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- FAQ Container -->
+        <div class="faq-container m-5 md:mx-[60px]" id="faqContainer">
+            <!-- Top Text -->
+            <h1 class="my-4 md:my-[80px] text-amber-50 text-[24px] md:text-[36px] font-extrabold">Frequently Asked Questions</h1>
+            <div class="faq-item">
+                <div class="question my-4 bg-[#272727] text-white flex items-center justify-between px-4 py-4 md:px-6 md:py-6 md:text-[24px] md:cursor-pointer rounded-2xl transition-all duration-300 hover:bg-[#3a3a3a]" id="faqFirstQuestion">
+                    <span>Is it free to use this website?</span>
+                    <i class="fa-solid fa-angle-down"></i>
+                </div>
+                <div class="answer hidden text-white flex items-center justify-between px-4 py-4 md:px-6 md:py-6 md:text-[24px] md:cursor-pointer rounded-2xl" id="faqFirstAnswer">
+                    <span>
+                        Yes, all features like browsing, rating, reviewing, and watching trailers are completely free.
+                    </span>
+                </div>
+            </div>
+            <div class="faq-item">
+                <div class="question my-4 bg-[#272727] text-white flex items-center justify-between px-4 py-4 md:px-6 md:py-6 md:text-[24px] md:cursor-pointer rounded-2xl transition-all duration-300 hover:bg-[#3a3a3a]" id="faqSecondQuestion">
+                    <span>How often are new films and series added?</span>
+                    <i class="fa-solid fa-angle-down"></i>
+                </div>
+                <div class="answer hidden text-white flex items-center justify-between px-4 py-4 md:px-6 md:py-6 md:text-[24px] md:cursor-pointer rounded-2xl" id="faqSecondAnswer">
+                    <span>
+                        New titles are added every week! We also add upcoming trailers, so you never miss the latest releases.
+                    </span>
+                </div>
+            </div>
+            <div class="faq-item">
+                <div class="question my-4 bg-[#272727] text-white flex items-center justify-between px-4 py-4 md:px-6 md:py-6 md:text-[24px] md:cursor-pointer rounded-2xl transition-all duration-300 hover:bg-[#3a3a3a]" id="faqThirdQuestion">
+                    <span>Is the information about movies, series, and actors verified?</span>
+                    <i class="fa-solid fa-angle-down"></i>
+                </div>
+                <div class="answer hidden text-white flex items-center justify-between px-4 py-4 md:px-6 md:py-6 md:text-[24px] md:cursor-pointer rounded-2xl" id="faqThirdAnswer">
+                    <span>
+                        Yes, we collect data from trusted sources and update them regularly to keep everything correct and fresh.
+                    </span>
+                </div>
+            </div>
+            <div class="faq-item">
+                <div class="question my-4 bg-[#272727] text-white flex items-center justify-between px-4 py-4 md:px-6 md:py-6 md:text-[24px] md:cursor-pointer rounded-2xl transition-all duration-300 hover:bg-[#3a3a3a]" id="faqFourthQuestion">
+                    <span>Can I edit or delete my review after posting it?</span>
+                    <i class="fa-solid fa-angle-down"></i>
+                </div>
+                <div class="answer hidden text-white flex items-center justify-between px-4 py-4 md:px-6 md:py-6 md:text-[24px] md:cursor-pointer rounded-2xl" id="faqFourthAnswer">
+                    <span>
+                        Of course! Go to your profile, find your review, and you will see options to edit or delete it anytime.
+                    </span>
+                </div>
+            </div>
+            <div class="faq-item">
+                <div class="question my-4 bg-[#272727] text-white flex items-center justify-between px-4 py-4 md:px-6 md:py-6 md:text-[24px] md:cursor-pointer rounded-2xl transition-all duration-300 hover:bg-[#3a3a3a]" id="faqFifthQuestion">
+                    <span>Where do the movie and series trailers come from?</span>
+                    <i class="fa-solid fa-angle-down"></i>
+                </div>
+                <div class="answer hidden text-white flex items-center justify-between px-4 py-4 md:px-6 md:py-6 md:text-[24px] md:cursor-pointer rounded-2xl" id="faqFifthAnswer">
+                    <span>
+                        All trailers are official, provided by production studios or authorized distributors.
+                    </span>
+                </div>
+            </div>
+            <div class="faq-item">
+                <div class="question my-4 bg-[#272727] text-white flex items-center justify-between px-4 py-4 md:px-6 md:py-6 md:text-[24px] md:cursor-pointer rounded-2xl transition-all duration-300 hover:bg-[#3a3a3a]" id="faqSixthQuestion">
+                    <span>Do I need an account to leave a review?</span>
+                    <i class="fa-solid fa-angle-down"></i>
+                </div>
+                <div class="answer hidden text-white flex items-center justify-between px-4 py-4 md:px-6 md:py-6 md:text-[24px] md:cursor-pointer rounded-2xl" id="faqSixthAnswer">
+                    <span>
+                        Yes, you need to create a free account to leave ratings and reviews. It helps us keep the community safe and fair.
+                    </span>
+                </div>
+            </div>
+            <div class="faq-item">
+                <div class="question my-4 bg-[#272727] text-white flex items-center justify-between px-4 py-4 md:px-6 md:py-6 md:text-[24px] md:cursor-pointer rounded-2xl transition-all duration-300 hover:bg-[#3a3a3a]" id="faqSeventhQuestion">
+                    <span>How can I rate a movie or series?</span>
+                    <i class="fa-solid fa-angle-down"></i>
+                </div>
+                <div class="answer hidden text-white flex items-center justify-between px-4 py-4 md:px-6 md:py-6 md:text-[24px] md:cursor-pointer rounded-2xl" id="faqSeventhAnswer">
+                    <span>
+                        You can rate any movie, series, actor, or director by clicking the "Rate" button on their page. Just choose your stars and share your thoughts!
+                    </span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="bg-black p-5">
+            <div class="container mx-auto py-5">
+                <div class="mb-6 sm:mb-8 text-center">
+                    <p class="text-gray-300 text-[16px] md:text-[20px]">Questions? Contact us.</p>
+                </div>
+                
+                <div class="grid grid-cols-2 sm:grid-cols-4 gap-y-3 sm:gap-y-4 gap-x-4 sm:gap-x-6 text-center footer-links">
+                    <div>
+                    <a href="#" class="text-gray-400 hover:underline text-[16px] md:text-[20px] block">FAQ</a>
+                    </div>
+                    <div>
+                    <a href="#" class="text-gray-400 hover:underline text-[16px] md:text-[20px] block">Help Center</a>
+                    </div>
+                    <div>
+                    <a href="#" class="text-gray-400 hover:underline text-[16px] md:text-[20px] block">Terms of Use</a>
+                    </div>
+                    <div>
+                    <a href="#" class="text-gray-400 hover:underline text-[16px] md:text-[20px] block">Privacy</a>
+                    </div>
+                </div>
+
+                <div class="my-6 sm:my-8 text-center">
+                    <p class="text-gray-300 text-[16px] md:text-[20px]">&copy; created by <a href="https://github.com/ruhlanrzayev" target="_blank" class="hover:underline">Ruhlan</a> & <a href="https://github.com/tunarjamalov" target="_blank" class="hover:underline">Tunar</a></p>
+                </div>
+            </div>
+        </footer>
+
+        <!-- jQuery Libraries -->
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+            
+        <!-- Google Translate  -->
+        <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+        <!-- Sweet Alert -->
+        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+        <!-- Swiper JS -->
+        <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+        <!-- Custom JS -->
+        <script src="js/main.js"></script>
+        <script src="js/swiper.js"></script>
+        <script src="js/script.js"></script>
+        <script src="js/popularcategory.js"></script>
+        <script src="js/multiplelanguage.js"></script>
+
+        <!-- jQuery -->
+        <script src="jquery/script.js"></script>
+    </body> 
+
+</html>

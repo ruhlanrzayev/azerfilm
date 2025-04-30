@@ -1,0 +1,39 @@
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# Log dosyaları
+*.log
+
+# Ortam değişkenleri
+.env
+.env.local
+
+# Node.js / NPM için (Eğer kullanıyorsan)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Python için (Kullanıyorsan)
+__pycache__/
+*.pyc
+
+# Derleme çıktıları
+dist/
+build/
+out/
+
+# IDE ve Editör dosyaları
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Git geçici dosyaları
+*.swp
+
+# Paket yöneticisi cache klasörleri
+.cache/
+.pnpm-store/
